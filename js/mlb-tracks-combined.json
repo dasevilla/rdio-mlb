@@ -1,0 +1,7005 @@
+[
+  {
+    "artist_name": "The Continuums", 
+    "player": "Britton, Zach", 
+    "rdio_keys": [], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-101", 
+    "track_name": "Closure "
+  }, 
+  {
+    "artist_name": "Nelly", 
+    "player": "Chen, Wei-Yin", 
+    "rdio_keys": [], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-102", 
+    "track_name": "Just A Dream "
+  }, 
+  {
+    "artist_name": "Thousand Foot Krutch", 
+    "player": "Davis, Chris", 
+    "rdio_keys": [
+      "t34787572"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-103", 
+    "track_name": "I Get Wicked"
+  }, 
+  {
+    "artist_name": "Dropkick Murphys", 
+    "player": "Flaherty, Ryan", 
+    "rdio_keys": [
+      "t7381874"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-104", 
+    "track_name": "Wild Rover "
+  }, 
+  {
+    "artist_name": "Carlos Y Jose", 
+    "player": "Gonzalez, Miguel", 
+    "rdio_keys": [
+      "t2071585", 
+      "t2297629", 
+      "t42295972", 
+      "t42302565", 
+      "t41324926", 
+      "t42909352"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-105", 
+    "track_name": "La Cosecha"
+  }, 
+  {
+    "artist_name": "Moby", 
+    "player": "Hardy, J.J.", 
+    "rdio_keys": [
+      "t2867833", 
+      "t4738011", 
+      "t30230695", 
+      "t42700902"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-106", 
+    "track_name": "Flower "
+  }, 
+  {
+    "artist_name": "T.I ", 
+    "player": "Hunter, Tommy", 
+    "rdio_keys": [
+      "t7130584", 
+      "t7131151"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-107", 
+    "track_name": "That's All She Wrote"
+  }, 
+  {
+    "artist_name": "Celia Cruz", 
+    "player": "Jimenez, Ubaldo", 
+    "rdio_keys": [
+      "t2909199", 
+      "t2970117", 
+      "t7131317"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-108", 
+    "track_name": "Rie y Llora"
+  }, 
+  {
+    "artist_name": "Juicy J feat. Big Sean and Young Jeezy ", 
+    "player": "Jones, Adam", 
+    "rdio_keys": [
+      "t34869538", 
+      "t34869532", 
+      "t40694378"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-109", 
+    "track_name": "Show Out"
+  }, 
+  {
+    "artist_name": "Tinie Tempah", 
+    "player": "Lough, David", 
+    "rdio_keys": [
+      "t8916463", 
+      "t8926597", 
+      "t37368348"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-110", 
+    "track_name": "Till I'm Gone"
+  }, 
+  {
+    "artist_name": "Bubba Sparxxx", 
+    "player": "Markakis, Nick", 
+    "rdio_keys": [
+      "t2873922"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-111", 
+    "track_name": "Deliverance "
+  }, 
+  {
+    "artist_name": "Loose Cannon Trio", 
+    "player": "Matusz, Brian", 
+    "rdio_keys": [], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-112", 
+    "track_name": "Secrets "
+  }, 
+  {
+    "artist_name": "Rebelution", 
+    "player": "Norris, Bud", 
+    "rdio_keys": [
+      "t13663072", 
+      "t13664507", 
+      "t34623611"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-113", 
+    "track_name": "Lady in White"
+  }, 
+  {
+    "artist_name": "Kavinsky", 
+    "player": "Norris, Bud", 
+    "rdio_keys": [
+      "t23856006", 
+      "t27625198", 
+      "t28328441"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-114", 
+    "track_name": "Night Call"
+  }, 
+  {
+    "artist_name": "The Black Keys", 
+    "player": "O'Day, Darren", 
+    "rdio_keys": [
+      "t1522516", 
+      "t11699231", 
+      "t1876457"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-115", 
+    "track_name": "Thickfreakness "
+  }, 
+  {
+    "artist_name": "NWO", 
+    "player": "Reimold, Nolan", 
+    "rdio_keys": [], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-116", 
+    "track_name": "Wolfpack "
+  }, 
+  {
+    "artist_name": "Jake Owen", 
+    "player": "Steve Lombardozzi", 
+    "rdio_keys": [
+      "t11097545"
+    ], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-117", 
+    "track_name": "Barefoot Blue Jean Night"
+  }, 
+  {
+    "artist_name": "Brantley Gilbert", 
+    "player": "Tillman, Chris", 
+    "rdio_keys": [], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-118", 
+    "track_name": "Kick It In The Sticks"
+  }, 
+  {
+    "artist_name": "Jake Owen", 
+    "player": "Wieters, Matt", 
+    "rdio_keys": [], 
+    "team_abbr": "BAL", 
+    "track_id": "mlb-track-119", 
+    "track_name": "Barefoot Blue Jean "
+  }, 
+  {
+    "artist_name": "Jason Aldean", 
+    "player": "Beckett, Josh", 
+    "rdio_keys": [
+      "t6389416"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-120", 
+    "track_name": "My Kinda Party"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Billingsley, Chad", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-121", 
+    "track_name": "TNT"
+  }, 
+  {
+    "artist_name": "Slipknot", 
+    "player": "Brandon League", 
+    "rdio_keys": [
+      "t1548831", 
+      "t18727074", 
+      "t18726696", 
+      "t1260591"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-122", 
+    "track_name": "Duality"
+  }, 
+  {
+    "artist_name": "Jay-Z & Rihanna", 
+    "player": "Chone Figgins", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-123", 
+    "track_name": "Talk that Talk "
+  }, 
+  {
+    "artist_name": "Future", 
+    "player": "Crawford, Carl", 
+    "rdio_keys": [
+      "t23747936", 
+      "t23747958", 
+      "t16923573"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-124", 
+    "track_name": "Long Live The Pimp"
+  }, 
+  {
+    "artist_name": "Foo Fighters", 
+    "player": "Ellis, A.J.", 
+    "rdio_keys": [
+      "t8172772", 
+      "t8327954"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-125", 
+    "track_name": "Walk"
+  }, 
+  {
+    "artist_name": "Gary Clark", 
+    "player": "Ethier, Andre", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-126", 
+    "track_name": "The Life"
+  }, 
+  {
+    "artist_name": "Imagine Dragons", 
+    "player": "Ethier, Andre", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-127", 
+    "track_name": "Tip Toe"
+  }, 
+  {
+    "artist_name": "Lil Wayne", 
+    "player": "Federowicz, Tim", 
+    "rdio_keys": [
+      "t6849945", 
+      "t6849941"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-128", 
+    "track_name": "Right Above It"
+  }, 
+  {
+    "artist_name": "Mariachi Vargas", 
+    "player": "Gonzalez, Adrian", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-129", 
+    "track_name": "El Mariachi Loco"
+  }, 
+  {
+    "artist_name": "Big Sean", 
+    "player": "Gordon, Dee", 
+    "rdio_keys": [
+      "t22862467", 
+      "t22862469", 
+      "t35409018", 
+      "t35409017"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-130", 
+    "track_name": "Guap"
+  }, 
+  {
+    "artist_name": "Red Hot Chili Peppers", 
+    "player": "Greinke, Zack", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-131", 
+    "track_name": "Snow (Hey Oh)"
+  }, 
+  {
+    "artist_name": "MGMT", 
+    "player": "Haren, Dan", 
+    "rdio_keys": [
+      "t3514298"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-132", 
+    "track_name": "Electric Feel"
+  }, 
+  {
+    "artist_name": "Huey \"Piano\" Smith", 
+    "player": "Howell, J.P.", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-133", 
+    "track_name": "Don't You Just Know It"
+  }, 
+  {
+    "artist_name": "Kanye West", 
+    "player": "Jansen, Kenley", 
+    "rdio_keys": [
+      "t6896167", 
+      "t6896377", 
+      "t32270087"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-134", 
+    "track_name": "All of the Lights"
+  }, 
+  {
+    "artist_name": "Trinidad James", 
+    "player": "Kemp, Matt", 
+    "rdio_keys": [
+      "t27374851"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-135", 
+    "track_name": "All Gold Everything Remix"
+  }, 
+  {
+    "artist_name": "Young Jeezy", 
+    "player": "Kemp, Matt", 
+    "rdio_keys": [
+      "t27667902", 
+      "t27667904", 
+      "t26115758"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-136", 
+    "track_name": "RIP"
+  }, 
+  {
+    "artist_name": "Juicy J", 
+    "player": "Kemp, Matt", 
+    "rdio_keys": [
+      "t34869538", 
+      "t34869532", 
+      "t40694378"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-137", 
+    "track_name": "Show Out"
+  }, 
+  {
+    "artist_name": "fun.", 
+    "player": "Kershaw, Clayton", 
+    "rdio_keys": [
+      "t27085237"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-138", 
+    "track_name": "We Are Young"
+  }, 
+  {
+    "artist_name": "Chris Tomlin", 
+    "player": "Maholm, Paul", 
+    "rdio_keys": [
+      "t23193224"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-139", 
+    "track_name": "Lay Me Down"
+  }, 
+  {
+    "artist_name": "Ozzy Osbourne", 
+    "player": "Mike Baxter", 
+    "rdio_keys": [
+      "t27602858", 
+      "t27598048", 
+      "t27600093"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-140", 
+    "track_name": "Shot in the Dark"
+  }, 
+  {
+    "artist_name": "The Prodigy", 
+    "player": "Perez, Chris", 
+    "rdio_keys": [
+      "t15593812", 
+      "t21181248", 
+      "t21181240", 
+      "t23590087"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-141", 
+    "track_name": "Firestarter"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Puig, Yasiel", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-142", 
+    "track_name": "All Of Me"
+  }, 
+  {
+    "artist_name": "Secreto \"El Famoso Biberon\"", 
+    "player": "Puig, Yasiel", 
+    "rdio_keys": [
+      "t22286873", 
+      "t29244932"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-143", 
+    "track_name": "Papa Dios Me Dijo"
+  }, 
+  {
+    "artist_name": "A$ap Ferg", 
+    "player": "Ramirez, Hanley", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-144", 
+    "track_name": "Shabba Ranks"
+  }, 
+  {
+    "artist_name": "Cypress Hill", 
+    "player": "Rodriguez, Paco", 
+    "rdio_keys": [
+      "t1900989", 
+      "t2419637", 
+      "t1934451", 
+      "t2050968"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-145", 
+    "track_name": "Armada Latina"
+  }, 
+  {
+    "artist_name": "PSY", 
+    "player": "Ryu, Hyun-Jin", 
+    "rdio_keys": [
+      "t30217266"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-146", 
+    "track_name": "Gentleman"
+  }, 
+  {
+    "artist_name": "Carley Rae Jepsen", 
+    "player": "Turner, Justin", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-147", 
+    "track_name": "Call Me Maybe"
+  }, 
+  {
+    "artist_name": "Marc Anthony", 
+    "player": "Uribe, Juan", 
+    "rdio_keys": [
+      "t30594145", 
+      "t33784606", 
+      "t40317398"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-148", 
+    "track_name": "Vivir Mi Vida"
+  }, 
+  {
+    "artist_name": "Led Zeppelin", 
+    "player": "Van Slyke, Scott", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-149", 
+    "track_name": "When the Levee Breaks"
+  }, 
+  {
+    "artist_name": "Vaski", 
+    "player": "Wilson, Brian", 
+    "rdio_keys": [], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-150", 
+    "track_name": "Zombie Apocolypse"
+  }, 
+  {
+    "artist_name": "Beastie Boys", 
+    "player": "Wright, Jamey", 
+    "rdio_keys": [
+      "t2460092", 
+      "t2457023", 
+      "t2352358", 
+      "t2457408", 
+      "t36230675"
+    ], 
+    "team_abbr": "LAD", 
+    "track_id": "mlb-track-151", 
+    "track_name": "So What'cha Want"
+  }, 
+  {
+    "artist_name": "Ronald Jenkees", 
+    "player": "Arrieta, Jake", 
+    "rdio_keys": [
+      "t23952871"
+    ], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-152", 
+    "track_name": "Disorganized Fun"
+  }, 
+  {
+    "artist_name": "Don Omar", 
+    "player": "Carlos Villanueva", 
+    "rdio_keys": [
+      "t2706553"
+    ], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-153", 
+    "track_name": "Ahora Son Mejor"
+  }, 
+  {
+    "artist_name": "Tool", 
+    "player": "Kottaras, George", 
+    "rdio_keys": [], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-154", 
+    "track_name": "Bottom"
+  }, 
+  {
+    "artist_name": "Nero (feat. Skrillex)", 
+    "player": "Murphy, Donnie", 
+    "rdio_keys": [], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-155", 
+    "track_name": "Promises"
+  }, 
+  {
+    "artist_name": "Godsmack", 
+    "player": "Nate Schierholtz", 
+    "rdio_keys": [
+      "t2797483"
+    ], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-156", 
+    "track_name": "War and Peace"
+  }, 
+  {
+    "artist_name": "Slightly Stoopid", 
+    "player": "Ruggiano, Justin", 
+    "rdio_keys": [
+      "t5992672", 
+      "t3326851", 
+      "t34619697"
+    ], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-157", 
+    "track_name": "Closer To The Sun"
+  }, 
+  {
+    "artist_name": "Roscoe Dash", 
+    "player": "Ryan Sweeney", 
+    "rdio_keys": [
+      "t11933246", 
+      "t13987970", 
+      "t11933245", 
+      "t13987969"
+    ], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-158", 
+    "track_name": "Good Good Night"
+  }, 
+  {
+    "artist_name": "Waka Flocka Flame", 
+    "player": "Ryan Sweeney", 
+    "rdio_keys": [
+      "t9130398", 
+      "t11303859", 
+      "t9030744", 
+      "t13947806", 
+      "t15960047"
+    ], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-159", 
+    "track_name": "No Hands"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Ryan Sweeney", 
+    "rdio_keys": [
+      "t16152491", 
+      "t15966487", 
+      "t16044040"
+    ], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-160", 
+    "track_name": "The Motto"
+  }, 
+  {
+    "artist_name": "Jose Pe\u00f1a Suazo", 
+    "player": "Strop, Pedro", 
+    "rdio_keys": [], 
+    "team_abbr": "CHC", 
+    "track_id": "mlb-track-161", 
+    "track_name": "Traigo Fuego"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Adam Dunn", 
+    "rdio_keys": [
+      "t7134106", 
+      "t44382209"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-162", 
+    "track_name": "Turn the Page"
+  }, 
+  {
+    "artist_name": "The Allman Brothers Band", 
+    "player": "Beckham, Gordon", 
+    "rdio_keys": [
+      "t12639623", 
+      "t15739413"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-163", 
+    "track_name": "Midnight Rider"
+  }, 
+  {
+    "artist_name": "Volbeat", 
+    "player": "Danks, Jordan", 
+    "rdio_keys": [
+      "t29103775"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-164", 
+    "track_name": "The Nameless One"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "De Aza, Alejandro", 
+    "rdio_keys": [
+      "t19940627", 
+      "t34500714", 
+      "t42025609", 
+      "t44122220"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-165", 
+    "track_name": "Limbo"
+  }, 
+  {
+    "artist_name": "J-Dash", 
+    "player": "Eaton, Adam", 
+    "rdio_keys": [], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-166", 
+    "track_name": "Wop"
+  }, 
+  {
+    "artist_name": "needtobreathe", 
+    "player": "Flowers, Tyler", 
+    "rdio_keys": [
+      "t20715266", 
+      "t11464356", 
+      "t39236662"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-167", 
+    "track_name": "Keep Your Eyes Open"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Gillaspie, Conor", 
+    "rdio_keys": [], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-168", 
+    "track_name": "You Shook Me All Night Long"
+  }, 
+  {
+    "artist_name": "The Outfield", 
+    "player": "Gordon Beckham", 
+    "rdio_keys": [
+      "t3920102", 
+      "t13781380", 
+      "t10654709", 
+      "t2891561", 
+      "t2974933", 
+      "t3013665", 
+      "t4492624", 
+      "t3927269", 
+      "t13763377", 
+      "t2912532"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-169", 
+    "track_name": "Your Love "
+  }, 
+  {
+    "artist_name": "Cypress Hill", 
+    "player": "Javy Guerra", 
+    "rdio_keys": [], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-170", 
+    "track_name": "Insane In the Brain"
+  }, 
+  {
+    "artist_name": "Rush", 
+    "player": "Jeff Keppinger", 
+    "rdio_keys": [], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-171", 
+    "track_name": "Tom Sawyer"
+  }, 
+  {
+    "artist_name": "Brantley Gilbert", 
+    "player": "Jones, Nate", 
+    "rdio_keys": [
+      "t11368878", 
+      "t11376864"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-172", 
+    "track_name": "Take It Outside"
+  }, 
+  {
+    "artist_name": "Chickenfoot", 
+    "player": "Keppinger, Jeff", 
+    "rdio_keys": [
+      "t3977277", 
+      "t21831266"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-173", 
+    "track_name": "Turnin' Left"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Paul Konerko", 
+    "rdio_keys": [], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-174", 
+    "track_name": "Harvester of Sorrow "
+  }, 
+  {
+    "artist_name": "Def Leppard", 
+    "player": "Phegley, Josh", 
+    "rdio_keys": [
+      "t36171464"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-175", 
+    "track_name": "Animal"
+  }, 
+  {
+    "artist_name": "MGMT", 
+    "player": "Phegley, Josh", 
+    "rdio_keys": [
+      "t3514298"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-176", 
+    "track_name": "Electric Feel"
+  }, 
+  {
+    "artist_name": "Don Omar", 
+    "player": "Ramirez, Alexei", 
+    "rdio_keys": [
+      "t9191888", 
+      "t6847620", 
+      "t15038020", 
+      "t6840690", 
+      "t44122247"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-177", 
+    "track_name": "Danza Kuduro"
+  }, 
+  {
+    "artist_name": "Jake Owens", 
+    "player": "Scott Downs", 
+    "rdio_keys": [], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-178", 
+    "track_name": "Eight Second Ride"
+  }, 
+  {
+    "artist_name": "Josh Kelley", 
+    "player": "Tyler Flowers", 
+    "rdio_keys": [
+      "t4468389", 
+      "t7953178"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-179", 
+    "track_name": "Georgia Clay "
+  }, 
+  {
+    "artist_name": "Trick Daddy", 
+    "player": "Viciedo, Dayan", 
+    "rdio_keys": [
+      "t7144704", 
+      "t1184797"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-180", 
+    "track_name": "I'm A Thug"
+  }, 
+  {
+    "artist_name": "Gente de Zona", 
+    "player": "Viciedo, Dayan", 
+    "rdio_keys": [
+      "t34338540", 
+      "t41276766", 
+      "t41638469", 
+      "t41671646", 
+      "t42987838"
+    ], 
+    "team_abbr": "CWS", 
+    "track_id": "mlb-track-181", 
+    "track_name": "Pinocho"
+  }, 
+  {
+    "artist_name": "White Snake", 
+    "player": "Burnett, Sean", 
+    "rdio_keys": [
+      "t3078071", 
+      "t2146622", 
+      "t40890410", 
+      "t40889752"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-182", 
+    "track_name": "Here I Go Again"
+  }, 
+  {
+    "artist_name": "Bingo Players", 
+    "player": "Conger, Hank", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-183", 
+    "track_name": "Get Up"
+  }, 
+  {
+    "artist_name": "J. Cole", 
+    "player": "Cowgill, Collin", 
+    "rdio_keys": [
+      "t11602034"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-184", 
+    "track_name": "Rise and Shine "
+  }, 
+  {
+    "artist_name": "Tool", 
+    "player": "Freese, David", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-185", 
+    "track_name": "Forty Six and 2"
+  }, 
+  {
+    "artist_name": "Gypsy Kings", 
+    "player": "Frieri, Ernesto", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-186", 
+    "track_name": "Volare"
+  }, 
+  {
+    "artist_name": "Phillips, Craig & Dean", 
+    "player": "Hamilton, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-187", 
+    "track_name": "Blessing and Honor "
+  }, 
+  {
+    "artist_name": "Lecrae Feat. Anthiny Evans", 
+    "player": "Hamilton, Josh", 
+    "rdio_keys": [
+      "t22682649"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-188", 
+    "track_name": "Boasting"
+  }, 
+  {
+    "artist_name": "Newsboys", 
+    "player": "Hamilton, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-189", 
+    "track_name": "Save Your Life"
+  }, 
+  {
+    "artist_name": "Third Day", 
+    "player": "Hamilton, Josh", 
+    "rdio_keys": [
+      "t6387943", 
+      "t20437292", 
+      "t20437299"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-190", 
+    "track_name": "Trust in Jesus"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Iannetta, Chris", 
+    "rdio_keys": [
+      "t3363181", 
+      "t11167865", 
+      "t9746858"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-191", 
+    "track_name": "Up All Night"
+  }, 
+  {
+    "artist_name": "Scorpions", 
+    "player": "Ibanez, Raul", 
+    "rdio_keys": [
+      "t3054277"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-192", 
+    "track_name": "Crossfire"
+  }, 
+  {
+    "artist_name": "Warren Zevon", 
+    "player": "Ibanez, Raul", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-193", 
+    "track_name": "Werewolves of London"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Jepsen, Kevin", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-194", 
+    "track_name": "Wherever I May Roam"
+  }, 
+  {
+    "artist_name": "Imagine Dragons", 
+    "player": "Kendrick, Howard", 
+    "rdio_keys": [
+      "t20005736", 
+      "t27588079", 
+      "t28883180", 
+      "t34598330"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-195", 
+    "track_name": "Radioactive"
+  }, 
+  {
+    "artist_name": "Florida Georgia Line", 
+    "player": "McDonald, John", 
+    "rdio_keys": [
+      "t23965647", 
+      "t39846425"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-196", 
+    "track_name": "Round Here"
+  }, 
+  {
+    "artist_name": "Juan Luis Guerra", 
+    "player": "Pujols, Albert", 
+    "rdio_keys": [
+      "t15611394"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-197", 
+    "track_name": "Las Avispas"
+  }, 
+  {
+    "artist_name": "Juan Luis Guerra", 
+    "player": "Pujols, Albert", 
+    "rdio_keys": [
+      "t15611497"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-198", 
+    "track_name": "Soldado"
+  }, 
+  {
+    "artist_name": "Tone Loc", 
+    "player": "Santiago, Hector", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-199", 
+    "track_name": "Wild Thing"
+  }, 
+  {
+    "artist_name": "Jason Aldean", 
+    "player": "Smith, Joe", 
+    "rdio_keys": [
+      "t6389416"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-200", 
+    "track_name": "My Kinda Party"
+  }, 
+  {
+    "artist_name": "Kanye West & Jay-Z", 
+    "player": "Trout, Mike", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-201", 
+    "track_name": "H.A.M."
+  }, 
+  {
+    "artist_name": "Shinedown", 
+    "player": "Weaver, Jered", 
+    "rdio_keys": [], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-202", 
+    "track_name": "Simple Man"
+  }, 
+  {
+    "artist_name": "Chromeo", 
+    "player": "Wilson, C.J.", 
+    "rdio_keys": [
+      "t5157517"
+    ], 
+    "team_abbr": "LAA", 
+    "track_id": "mlb-track-203", 
+    "track_name": "Night By Night"
+  }, 
+  {
+    "artist_name": "Eminem", 
+    "player": "Avilan, Luis", 
+    "rdio_keys": [
+      "t2783800", 
+      "t2786018", 
+      "t2847485", 
+      "t2866137", 
+      "t35409277", 
+      "t2730156"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-204", 
+    "track_name": "Without Me"
+  }, 
+  {
+    "artist_name": "Alex Clare", 
+    "player": "Freeman, Freddie", 
+    "rdio_keys": [
+      "t17160472", 
+      "t21946894", 
+      "t34568249", 
+      "t26850497", 
+      "t19524277"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-205", 
+    "track_name": "Too Close"
+  }, 
+  {
+    "artist_name": "ZZ Top", 
+    "player": "Gattis, Evan", 
+    "rdio_keys": [
+      "t39435035"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-206", 
+    "track_name": "La Grange"
+  }, 
+  {
+    "artist_name": "Jay Z", 
+    "player": "Heyward, Jason", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-207", 
+    "track_name": "N***** in Paris"
+  }, 
+  {
+    "artist_name": "Rihanna", 
+    "player": "Johnson, Chris", 
+    "rdio_keys": [
+      "t23866951", 
+      "t23869064"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-208", 
+    "track_name": "Pour It Up"
+  }, 
+  {
+    "artist_name": "Guns N' Roses", 
+    "player": "Kimbrel, Craig", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-209", 
+    "track_name": "Welcome to the Jungle"
+  }, 
+  {
+    "artist_name": "AWOLNATION", 
+    "player": "Laird, Gerald", 
+    "rdio_keys": [
+      "t8169595", 
+      "t40463796"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-210", 
+    "track_name": "Sail"
+  }, 
+  {
+    "artist_name": "Party Boyz", 
+    "player": "Mike Minor", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-211", 
+    "track_name": "Flex"
+  }, 
+  {
+    "artist_name": "Shinedown", 
+    "player": "Minor, Mike", 
+    "rdio_keys": [
+      "t6856662", 
+      "t1151605", 
+      "t1260802", 
+      "t38871162"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-212", 
+    "track_name": "Sound of Madness"
+  }, 
+  {
+    "artist_name": "Pitbull", 
+    "player": "Pastornicky, Tyler", 
+    "rdio_keys": [
+      "t9687241", 
+      "t9617708", 
+      "t9687330", 
+      "t9687321", 
+      "t15371752"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-213", 
+    "track_name": "International Love"
+  }, 
+  {
+    "artist_name": "Alvaro", 
+    "player": "Pena, Ramiro", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-214", 
+    "track_name": "Pay Attention to the Drums"
+  }, 
+  {
+    "artist_name": "Danzig", 
+    "player": "Ryan Doumit", 
+    "rdio_keys": [
+      "t2917294"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-215", 
+    "track_name": "Mother"
+  }, 
+  {
+    "artist_name": "Ky-mani Marley", 
+    "player": "Santana, Ervin", 
+    "rdio_keys": [
+      "t1940183"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-216", 
+    "track_name": "Hustle"
+  }, 
+  {
+    "artist_name": "Benny Benassi ft. Gary Go", 
+    "player": "Schafer, Jordan", 
+    "rdio_keys": [
+      "t34568834", 
+      "t34576441", 
+      "t34568768"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-217", 
+    "track_name": "Cinema"
+  }, 
+  {
+    "artist_name": "Trinidad James", 
+    "player": "Simmons, Andrelton", 
+    "rdio_keys": [
+      "t24948555", 
+      "t27374808", 
+      "t25225972", 
+      "t23990686", 
+      "t24948429"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-218", 
+    "track_name": "All Gold Everything"
+  }, 
+  {
+    "artist_name": "Plan B feat. Tego Calderon", 
+    "player": "Teheran, Julio", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-219", 
+    "track_name": "Es Un Secreto Remix"
+  }, 
+  {
+    "artist_name": "Snoop Dogg", 
+    "player": "Uggla, Dan", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-220", 
+    "track_name": "What's My Name?"
+  }, 
+  {
+    "artist_name": "Rick Ross ft. Nikki Minaj", 
+    "player": "Upton, B.J.", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-221", 
+    "track_name": "You the boss"
+  }, 
+  {
+    "artist_name": "Young Jeezy", 
+    "player": "Upton, Justin", 
+    "rdio_keys": [
+      "t21949165", 
+      "t21949170", 
+      "t25252958", 
+      "t25253633", 
+      "t26950382", 
+      "t34647407"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-222", 
+    "track_name": "Get Right"
+  }, 
+  {
+    "artist_name": "Big Boi ft. TI and Ludacris", 
+    "player": "Upton, Justin", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-223", 
+    "track_name": "In the A"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Varvaro, Anthony", 
+    "rdio_keys": [], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-224", 
+    "track_name": "Headlines"
+  }, 
+  {
+    "artist_name": "A$AP Rocky ft. Skrillex", 
+    "player": "Walden, Jordan", 
+    "rdio_keys": [
+      "t25558173", 
+      "t25558032"
+    ], 
+    "team_abbr": "ATL", 
+    "track_id": "mlb-track-225", 
+    "track_name": "Wild For the Night"
+  }, 
+  {
+    "artist_name": "Kanye West", 
+    "player": "Arenado, Nolan", 
+    "rdio_keys": [
+      "t6896185", 
+      "t6896423"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-226", 
+    "track_name": "Runaway"
+  }, 
+  {
+    "artist_name": "R-Swift", 
+    "player": "Barnes, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-227", 
+    "track_name": "Awesome God"
+  }, 
+  {
+    "artist_name": "The Outfield", 
+    "player": "Blackmon, Charlie", 
+    "rdio_keys": [
+      "t3920102", 
+      "t13781380", 
+      "t10654709", 
+      "t2891561", 
+      "t2974933", 
+      "t3013665", 
+      "t4492624", 
+      "t3927269", 
+      "t13763377", 
+      "t2912532"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-228", 
+    "track_name": "Your Love"
+  }, 
+  {
+    "artist_name": "Adestria", 
+    "player": "Brett Anderson", 
+    "rdio_keys": [
+      "t16231486"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-229", 
+    "track_name": "1984"
+  }, 
+  {
+    "artist_name": "Arcangel", 
+    "player": "Carlos Gonzalez", 
+    "rdio_keys": [
+      "t30648854"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-230", 
+    "track_name": "Flow Violoento"
+  }, 
+  {
+    "artist_name": "Imagine Dragons", 
+    "player": "Drew Stubbs", 
+    "rdio_keys": [
+      "t20005736", 
+      "t27588079", 
+      "t28883180", 
+      "t34598330"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-231", 
+    "track_name": "Radioactive"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Justin Morneau", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-232", 
+    "track_name": "Rock And Roll Ain't No Noise Pollution"
+  }, 
+  {
+    "artist_name": "DJ Official", 
+    "player": "McKenry, Michael", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-233", 
+    "track_name": "Chisel Me"
+  }, 
+  {
+    "artist_name": "Master P", 
+    "player": "McKenry, Michael", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-234", 
+    "track_name": "Who Want Some"
+  }, 
+  {
+    "artist_name": "Krewella", 
+    "player": "Michael Cuddyer", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-235", 
+    "track_name": "Killin"
+  }, 
+  {
+    "artist_name": "DJ Official", 
+    "player": "Michael McKenry", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-236", 
+    "track_name": "Chisel Me"
+  }, 
+  {
+    "artist_name": "Tedashii", 
+    "player": "Michael McKenry", 
+    "rdio_keys": [
+      "t22741918"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-237", 
+    "track_name": "Work"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Morales, Franklin", 
+    "rdio_keys": [
+      "t2885067", 
+      "t44122191"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-238", 
+    "track_name": "La Despedida"
+  }, 
+  {
+    "artist_name": "Don Omar", 
+    "player": "Morales, Franklin", 
+    "rdio_keys": [
+      "t17160423", 
+      "t42025605"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-239", 
+    "track_name": "Zumba"
+  }, 
+  {
+    "artist_name": "Missy Elliot", 
+    "player": "Pacheco, Jordan", 
+    "rdio_keys": [
+      "t1161689", 
+      "t1274546"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-240", 
+    "track_name": "The Rain"
+  }, 
+  {
+    "artist_name": "Don Miguelo", 
+    "player": "Rosario, Wilin", 
+    "rdio_keys": [
+      "t15557896", 
+      "t13046911", 
+      "t15557004", 
+      "t35931793"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-241", 
+    "track_name": "7 Locas"
+  }, 
+  {
+    "artist_name": "Justin Timberlake", 
+    "player": "Rutledge, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-242", 
+    "track_name": "Suit & Tie"
+  }, 
+  {
+    "artist_name": "Meek Mill", 
+    "player": "Stubbs, Drew", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-243", 
+    "track_name": "Ima Boss (feat. Rick Ross)"
+  }, 
+  {
+    "artist_name": "Calvin Harris", 
+    "player": "Stubbs, Drew", 
+    "rdio_keys": [], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-244", 
+    "track_name": "Sweet Nothing (feat. Florence Welch)"
+  }, 
+  {
+    "artist_name": "Jay-z", 
+    "player": "Troy Tulowitzki", 
+    "rdio_keys": [
+      "t6896094", 
+      "t6896025"
+    ], 
+    "team_abbr": "COL", 
+    "track_id": "mlb-track-245", 
+    "track_name": "Public Service Announcement"
+  }, 
+  {
+    "artist_name": "Black Keys", 
+    "player": "Alex Avila", 
+    "rdio_keys": [], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-246", 
+    "track_name": "I Got Mine"
+  }, 
+  {
+    "artist_name": "Gary Allan", 
+    "player": "Andy Dirks", 
+    "rdio_keys": [
+      "t2764147", 
+      "t4831362"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-247", 
+    "track_name": "Get Off on the Pain"
+  }, 
+  {
+    "artist_name": "LMFAO", 
+    "player": "Anibal Sanchez", 
+    "rdio_keys": [
+      "t28420028"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-248", 
+    "track_name": "Party Rock Anthem"
+  }, 
+  {
+    "artist_name": "Wale", 
+    "player": "Austin Jackson", 
+    "rdio_keys": [
+      "t12341278", 
+      "t12342865", 
+      "t12342998"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-249", 
+    "track_name": "Ambition"
+  }, 
+  {
+    "artist_name": "Ram Jam", 
+    "player": "Ian Kinsler", 
+    "rdio_keys": [], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-250", 
+    "track_name": "Black Betty"
+  }, 
+  {
+    "artist_name": "Stevie Wonder", 
+    "player": "Ian Kinsler", 
+    "rdio_keys": [
+      "t7133931", 
+      "t44346422"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-251", 
+    "track_name": "Superstition"
+  }, 
+  {
+    "artist_name": "Steel Dragon", 
+    "player": "Joe Nathan", 
+    "rdio_keys": [
+      "t3425630"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-252", 
+    "track_name": "Stand Up"
+  }, 
+  {
+    "artist_name": "The White Stripes", 
+    "player": "Jose Iglesias", 
+    "rdio_keys": [
+      "t2234702", 
+      "t4789108"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-253", 
+    "track_name": "Seven Nation Army"
+  }, 
+  {
+    "artist_name": "Eminem", 
+    "player": "Justin Verlander", 
+    "rdio_keys": [
+      "t11900050", 
+      "t2784248", 
+      "t2866342", 
+      "t35409403"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-254", 
+    "track_name": "Till I Collapse"
+  }, 
+  {
+    "artist_name": "Nas", 
+    "player": "Martinez, Victor", 
+    "rdio_keys": [
+      "t2931093", 
+      "t3039471", 
+      "t6387513", 
+      "t2926606", 
+      "t15478925", 
+      "t2984130", 
+      "t35040903"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-255", 
+    "track_name": "I Can"
+  }, 
+  {
+    "artist_name": "Alexandra Stan", 
+    "player": "Martinez, Victor", 
+    "rdio_keys": [], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-256", 
+    "track_name": "Mr Saxobeat"
+  }, 
+  {
+    "artist_name": "LMFAO", 
+    "player": "Martinez, Victor", 
+    "rdio_keys": [
+      "t3386725", 
+      "t3387069", 
+      "t2666976", 
+      "t9757750", 
+      "t34568660", 
+      "t3387384", 
+      "t2834287"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-257", 
+    "track_name": "Shots"
+  }, 
+  {
+    "artist_name": "Franki Ruiz", 
+    "player": "Martinez, Victor", 
+    "rdio_keys": [], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-258", 
+    "track_name": "Todo Comenzo Bailando"
+  }, 
+  {
+    "artist_name": "Kanye West", 
+    "player": "Miguel Cabrera", 
+    "rdio_keys": [
+      "t20643558", 
+      "t17057219", 
+      "t16891994", 
+      "t26320628"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-259", 
+    "track_name": "Mercy"
+  }, 
+  {
+    "artist_name": "Nickelback", 
+    "player": "Phil Coke", 
+    "rdio_keys": [
+      "t1511417", 
+      "t1255261", 
+      "t38983825", 
+      "t2585465"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-260", 
+    "track_name": "Burn It To The Ground"
+  }, 
+  {
+    "artist_name": "Kirk Franklin", 
+    "player": "Rajai Davis", 
+    "rdio_keys": [
+      "t3603889", 
+      "t5803025"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-261", 
+    "track_name": "Jesus"
+  }, 
+  {
+    "artist_name": "Curtis Stingers & The Forest Rangers", 
+    "player": "Rick Porcello", 
+    "rdio_keys": [], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-262", 
+    "track_name": "This Life"
+  }, 
+  {
+    "artist_name": "Dr. Dre, feat. Eminem", 
+    "player": "Scherzer, Max", 
+    "rdio_keys": [
+      "t2808034", 
+      "t2808702"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-263", 
+    "track_name": "Forgot About Dre"
+  }, 
+  {
+    "artist_name": "led zeppelin", 
+    "player": "Brian Bogusevic", 
+    "rdio_keys": [], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-267", 
+    "track_name": "when the levee breaks"
+  }, 
+  {
+    "artist_name": "\u00f1ejo y Dalmatia featuring J Alvarez", 
+    "player": "Fernandez, Jose", 
+    "rdio_keys": [], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-268", 
+    "track_name": "Sexo Sudor y Calor"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Garrett Jones", 
+    "rdio_keys": [], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-269", 
+    "track_name": "Whiskey in a Jar"
+  }, 
+  {
+    "artist_name": "Alter Bridge", 
+    "player": "Greg Dobbs", 
+    "rdio_keys": [], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-270", 
+    "track_name": "Show Me a Sign"
+  }, 
+  {
+    "artist_name": "Los principales", 
+    "player": "Hechavarria, Adeiny", 
+    "rdio_keys": [
+      "t25269360", 
+      "t27469133"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-271", 
+    "track_name": "Kimba pa que suene"
+  }, 
+  {
+    "artist_name": "Spanish", 
+    "player": "Henderson Alvarez", 
+    "rdio_keys": [], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-272", 
+    "track_name": "Unknown"
+  }, 
+  {
+    "artist_name": "Ra", 
+    "player": "Jones, Garrett", 
+    "rdio_keys": [
+      "t2865006"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-273", 
+    "track_name": "Do You Call My Name"
+  }, 
+  {
+    "artist_name": "ZZ Top", 
+    "player": "Jones, Garrett", 
+    "rdio_keys": [
+      "t3047646"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-274", 
+    "track_name": "She's Just Killing Me"
+  }, 
+  {
+    "artist_name": "Justin Moore", 
+    "player": "Mathis, Jeff", 
+    "rdio_keys": [
+      "t4744897"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-275", 
+    "track_name": "Backwoods"
+  }, 
+  {
+    "artist_name": "Nickelback", 
+    "player": "Mike Dunn", 
+    "rdio_keys": [
+      "t12933269"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-276", 
+    "track_name": "Kiss it Goodbye"
+  }, 
+  {
+    "artist_name": "Kanye West", 
+    "player": "Ramos, A.J.", 
+    "rdio_keys": [], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-277", 
+    "track_name": "Power"
+  }, 
+  {
+    "artist_name": "Blake Shelton", 
+    "player": "Saltalamacchia, Jarrod", 
+    "rdio_keys": [
+      "t28961550", 
+      "t28961970", 
+      "t32660093", 
+      "t40544366"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-278", 
+    "track_name": "Boys 'Round Here (feat. Pistol Annies & Friends)"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Solano, Donovan", 
+    "rdio_keys": [
+      "t18116922", 
+      "t18115936", 
+      "t19940916", 
+      "t40711151", 
+      "t44122233"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-279", 
+    "track_name": "Lovumba"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Solano, Donovan", 
+    "rdio_keys": [
+      "t16152491", 
+      "t15966487", 
+      "t16044040"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-280", 
+    "track_name": "The Motto"
+  }, 
+  {
+    "artist_name": "Rick Ross", 
+    "player": "Stanton, Giancarlo", 
+    "rdio_keys": [], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-281", 
+    "track_name": "Clique (remix)"
+  }, 
+  {
+    "artist_name": "116 Clique", 
+    "player": "Steve Cishek", 
+    "rdio_keys": [
+      "t22695199"
+    ], 
+    "team_abbr": "MIA", 
+    "track_id": "mlb-track-282", 
+    "track_name": "Send Me/ Represent"
+  }, 
+  {
+    "artist_name": "Jake Owen", 
+    "player": "Steve Lombardozzi", 
+    "rdio_keys": [
+      "t11097545"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-264", 
+    "track_name": "Barefoot Blue Jean Night"
+  }, 
+  {
+    "artist_name": "Rick Ross", 
+    "player": "Torii Hunter", 
+    "rdio_keys": [
+      "t2759732", 
+      "t2758661"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-265", 
+    "track_name": "Luxury Tax"
+  }, 
+  {
+    "artist_name": "Young Jeezy", 
+    "player": "Torii Hunter", 
+    "rdio_keys": [
+      "t2731228", 
+      "t2786316"
+    ], 
+    "team_abbr": "DET", 
+    "track_id": "mlb-track-266", 
+    "track_name": "Soul Survivor"
+  }, 
+  {
+    "artist_name": "Shinedown", 
+    "player": "Arroyo, Bronson", 
+    "rdio_keys": [
+      "t1227929", 
+      "t1280388", 
+      "t38870481"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-283", 
+    "track_name": "45"
+  }, 
+  {
+    "artist_name": "Red Hot Chili Peppers ", 
+    "player": "Arroyo, Bronson", 
+    "rdio_keys": [
+      "t1185182", 
+      "t1265008"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-284", 
+    "track_name": "Can't Stop"
+  }, 
+  {
+    "artist_name": "Next September", 
+    "player": "Brad Ziegler", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-285", 
+    "track_name": "Your Time To Shine"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Brewer, Charles", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-286", 
+    "track_name": "Sad But True"
+  }, 
+  {
+    "artist_name": "N/A", 
+    "player": "Cahill, Trevor", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-287", 
+    "track_name": "Mortal Kombat Theme Song"
+  }, 
+  {
+    "artist_name": "Jefferson Airplane", 
+    "player": "Cahill, Trevor", 
+    "rdio_keys": [
+      "t9966060"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-288", 
+    "track_name": "White Rabbit"
+  }, 
+  {
+    "artist_name": "Mann", 
+    "player": "Chavez, Eric", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-289", 
+    "track_name": "Buzzin'"
+  }, 
+  {
+    "artist_name": "Ice Cube", 
+    "player": "Chavez, Eric", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-290", 
+    "track_name": "Check Yourself"
+  }, 
+  {
+    "artist_name": "The Devin Townsend Project", 
+    "player": "Collmenter, Josh", 
+    "rdio_keys": [
+      "t19635700"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-291", 
+    "track_name": "Kingdom"
+  }, 
+  {
+    "artist_name": "DJ Felli Fel", 
+    "player": "Corbin, Patrick", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-292", 
+    "track_name": "Reason To Hate (feat. Ne-Yo, Tyga & Wiz Khalifa)"
+  }, 
+  {
+    "artist_name": "Naughty By Nature", 
+    "player": "Daniel Hudson", 
+    "rdio_keys": [
+      "t1240655", 
+      "t7445843"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-293", 
+    "track_name": "Feel Me Flow"
+  }, 
+  {
+    "artist_name": "Linkin Park", 
+    "player": "Daniel Hudson", 
+    "rdio_keys": [
+      "t1187036", 
+      "t1216405"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-294", 
+    "track_name": "Figure.09"
+  }, 
+  {
+    "artist_name": "Popcaan", 
+    "player": "Delgado, Randall", 
+    "rdio_keys": [
+      "t12563294", 
+      "t34624293", 
+      "t34616274", 
+      "t34629530", 
+      "t34622337", 
+      "t34630891"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-295", 
+    "track_name": "Ravin"
+  }, 
+  {
+    "artist_name": "A$AP Rocky", 
+    "player": "Delgado, Randall", 
+    "rdio_keys": [
+      "t25557893"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-296", 
+    "track_name": "Wild for the Night"
+  }, 
+  {
+    "artist_name": "Florida Georgia Line", 
+    "player": "Goldschmidt, Paul", 
+    "rdio_keys": [
+      "t23965728", 
+      "t39846469"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-297", 
+    "track_name": "It'z Just What We Do"
+  }, 
+  {
+    "artist_name": "Notorious B.I.G.", 
+    "player": "Gregorius, Didi", 
+    "rdio_keys": [
+      "t1209947", 
+      "t1280917", 
+      "t1198457", 
+      "t1249699", 
+      "t1258590", 
+      "t39325380"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-298", 
+    "track_name": "Notorious B.I.G."
+  }, 
+  {
+    "artist_name": "Spiderbait", 
+    "player": "Harris, Will", 
+    "rdio_keys": [
+      "t2824040", 
+      "t2789268"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-299", 
+    "track_name": "Black Betty"
+  }, 
+  {
+    "artist_name": "Coolio", 
+    "player": "Hernandez, David", 
+    "rdio_keys": [
+      "t11560460", 
+      "t39430458", 
+      "t44257200"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-300", 
+    "track_name": "Gangsta's Paradise"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Hill, Aaron", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-301", 
+    "track_name": "Back In Black"
+  }, 
+  {
+    "artist_name": "Foghat", 
+    "player": "Hill, Aaron", 
+    "rdio_keys": [
+      "t42824019"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-302", 
+    "track_name": "Slow Ride"
+  }, 
+  {
+    "artist_name": "Linkin Park", 
+    "player": "Hudson, Daniel", 
+    "rdio_keys": [
+      "t1187036", 
+      "t1216405"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-303", 
+    "track_name": "Figure.09"
+  }, 
+  {
+    "artist_name": "Tim McGraw", 
+    "player": "Joe Paterson", 
+    "rdio_keys": [
+      "t11689933"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-304", 
+    "track_name": "How Bad Do You Want It"
+  }, 
+  {
+    "artist_name": "Secreto El Biberon", 
+    "player": "Marte, Alfredo", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-305", 
+    "track_name": "Yo Voy Pa Lante"
+  }, 
+  {
+    "artist_name": "Chevelle", 
+    "player": "McCarthy, Brandon", 
+    "rdio_keys": [
+      "t2909168"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-306", 
+    "track_name": "Comfortable Liar"
+  }, 
+  {
+    "artist_name": "The Black Keys", 
+    "player": "McCarthy, Brandon", 
+    "rdio_keys": [
+      "t12573696", 
+      "t27085147"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-307", 
+    "track_name": "Lonely Boy"
+  }, 
+  {
+    "artist_name": "Justin Moore", 
+    "player": "Miley, Wade", 
+    "rdio_keys": [
+      "t4744897"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-308", 
+    "track_name": "Backwoods"
+  }, 
+  {
+    "artist_name": "Brantley Gilbert", 
+    "player": "Miley, Wade", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-309", 
+    "track_name": "Kick It In The Sticks"
+  }, 
+  {
+    "artist_name": "El Mundo", 
+    "player": "Montero, Miguel", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-310", 
+    "track_name": "Chaccaron Maccaron"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Parra, Gerardo", 
+    "rdio_keys": [
+      "t19940627", 
+      "t34500714", 
+      "t42025609", 
+      "t44122220"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-311", 
+    "track_name": "Limbo"
+  }, 
+  {
+    "artist_name": "Florida Georgia Line", 
+    "player": "Pennington, Cliff", 
+    "rdio_keys": [
+      "t23965621", 
+      "t27376568", 
+      "t39846410"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-312", 
+    "track_name": "Cruise"
+  }, 
+  {
+    "artist_name": "Mumford & Sons", 
+    "player": "Pollock, A.J.", 
+    "rdio_keys": [
+      "t4013044", 
+      "t4769767"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-313", 
+    "track_name": "Little Lion Man"
+  }, 
+  {
+    "artist_name": "Norman Greenbaum", 
+    "player": "Pollock, A.J.", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-314", 
+    "track_name": "Spirit In The Sky"
+  }, 
+  {
+    "artist_name": "Alvaro", 
+    "player": "Prado, Martin", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-315", 
+    "track_name": "Make The Crowd Go (Original Mix)"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Putz, J.J.", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-316", 
+    "track_name": "Thunderstruck"
+  }, 
+  {
+    "artist_name": "Kid Rock", 
+    "player": "Reed, Addison", 
+    "rdio_keys": [
+      "t3000691", 
+      "t2960311"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-317", 
+    "track_name": "Bawitdaba"
+  }, 
+  {
+    "artist_name": "N/A", 
+    "player": "Reynolds, Matt", 
+    "rdio_keys": [], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-318", 
+    "track_name": "Stone Cold Steve Austin Entrance Music"
+  }, 
+  {
+    "artist_name": "Lil Wayne", 
+    "player": "Ross, Cody", 
+    "rdio_keys": [
+      "t26319922"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-319", 
+    "track_name": "No Worries"
+  }, 
+  {
+    "artist_name": "Rick Ross", 
+    "player": "Ross, Cody", 
+    "rdio_keys": [
+      "t2801494", 
+      "t2705874"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-320", 
+    "track_name": "Push It"
+  }, 
+  {
+    "artist_name": "Bassnectar", 
+    "player": "Ross, Cody", 
+    "rdio_keys": [
+      "t16703690"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-321", 
+    "track_name": "Vava Voom"
+  }, 
+  {
+    "artist_name": "Miley Cyrus", 
+    "player": "Ross, Cody", 
+    "rdio_keys": [
+      "t37763013", 
+      "t37763080", 
+      "t37763084", 
+      "t37763047"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-322", 
+    "track_name": "We Can't Stop"
+  }, 
+  {
+    "artist_name": "DJ Next", 
+    "player": "Sanabia, Alex", 
+    "rdio_keys": [
+      "t24997708"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-323", 
+    "track_name": "Hit Leta"
+  }, 
+  {
+    "artist_name": "Cloudkicker", 
+    "player": "Trumbo, Mark", 
+    "rdio_keys": [
+      "t28966055"
+    ], 
+    "team_abbr": "ARI", 
+    "track_id": "mlb-track-324", 
+    "track_name": "Dysphoria"
+  }, 
+  {
+    "artist_name": "Ted Nugent", 
+    "player": "Bailey, Homer", 
+    "rdio_keys": [
+      "t3476305"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-325", 
+    "track_name": "Fred Bear"
+  }, 
+  {
+    "artist_name": "Black Sabbath", 
+    "player": "Broxton, Jonathan", 
+    "rdio_keys": [
+      "t2701456", 
+      "t42175591", 
+      "t42175450", 
+      "t42175488", 
+      "t42175435"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-326", 
+    "track_name": "Iron Man"
+  }, 
+  {
+    "artist_name": "DJ Khaled", 
+    "player": "Bruce, Jay", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-327", 
+    "track_name": "No New Friends (feat. Drake, Rick Ross & Lil Wayne)"
+  }, 
+  {
+    "artist_name": "Rage Against the Machine", 
+    "player": "Chapman, Aroldis", 
+    "rdio_keys": [
+      "t1518067", 
+      "t23648389", 
+      "t23648383"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-328", 
+    "track_name": "Wake Up"
+  }, 
+  {
+    "artist_name": "Jason Aldean", 
+    "player": "Cozart, Zack", 
+    "rdio_keys": [
+      "t21744629"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-329", 
+    "track_name": "The Only Way I know"
+  }, 
+  {
+    "artist_name": "Breakin' Strings", 
+    "player": "Cueto, Johnny", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-330", 
+    "track_name": "Hello City Limits"
+  }, 
+  {
+    "artist_name": "Wisin y Yandel", 
+    "player": "Cueto, Johnny", 
+    "rdio_keys": [
+      "t2711431", 
+      "t36808145", 
+      "t39135050", 
+      "t2757186"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-331", 
+    "track_name": "Siguelo"
+  }, 
+  {
+    "artist_name": "Frank Sinatra", 
+    "player": "Frazier, Todd", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-332", 
+    "track_name": "Fly Me to the Moon"
+  }, 
+  {
+    "artist_name": "Frank Sinatra ", 
+    "player": "Frazier, Todd", 
+    "rdio_keys": [
+      "t34373608", 
+      "t34650949", 
+      "t36416992", 
+      "t36459418", 
+      "t36460278", 
+      "t37649067", 
+      "t38239952", 
+      "t38240271", 
+      "t38241799", 
+      "t38618594", 
+      "t39926421", 
+      "t40147631", 
+      "t40332361"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-333", 
+    "track_name": "You Make Me Feel So Young"
+  }, 
+  {
+    "artist_name": "Dwight Yoakam", 
+    "player": "Hannahan, Jack", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-334", 
+    "track_name": "Guitars Cadillacs"
+  }, 
+  {
+    "artist_name": "Gaelic Storm", 
+    "player": "Hannahan, Jack", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-335", 
+    "track_name": "Kiss Me I'm Irish"
+  }, 
+  {
+    "artist_name": "Grits ", 
+    "player": "Heisey, Chris", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-336", 
+    "track_name": "We Don't Play"
+  }, 
+  {
+    "artist_name": "Brantley Gilbert ", 
+    "player": "Hoover, J.J.", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-337", 
+    "track_name": "Kick it in the Sticks"
+  }, 
+  {
+    "artist_name": "Benny Benassi", 
+    "player": "Latos, Mat", 
+    "rdio_keys": [
+      "t12021916", 
+      "t21440603", 
+      "t9468493", 
+      "t9600394", 
+      "t40712305"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-338", 
+    "track_name": "Cinema (Skrillex Remix)"
+  }, 
+  {
+    "artist_name": "Adele", 
+    "player": "Latos, Mat", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-339", 
+    "track_name": "Set Fire to the Rain - Ember Waves Dubstep Remix"
+  }, 
+  {
+    "artist_name": "The xx", 
+    "player": "Leake, Mike", 
+    "rdio_keys": [
+      "t7367531"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-340", 
+    "track_name": "Intro"
+  }, 
+  {
+    "artist_name": "fun.", 
+    "player": "Leake, Mike", 
+    "rdio_keys": [
+      "t15625863"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-341", 
+    "track_name": "Some Nights"
+  }, 
+  {
+    "artist_name": "Black Angels", 
+    "player": "LeCure, Sam", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-342", 
+    "track_name": "Prodigal Son"
+  }, 
+  {
+    "artist_name": "Beastie Boys ", 
+    "player": "Ludwick, Ryan", 
+    "rdio_keys": [
+      "t3089071", 
+      "t2797623", 
+      "t3063491", 
+      "t2810251"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-343", 
+    "track_name": "Brass Monkey"
+  }, 
+  {
+    "artist_name": "Bingo Players", 
+    "player": "Lutz, Donald", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-344", 
+    "track_name": "Rattle (Sexy Lady) [feat. 2 Chainz]"
+  }, 
+  {
+    "artist_name": "Led Zeppelin ", 
+    "player": "Marshall, Sean", 
+    "rdio_keys": [
+      "t38240649", 
+      "t38242738", 
+      "t38239561", 
+      "t38238810", 
+      "t38243800", 
+      "t38242014"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-345", 
+    "track_name": "Kashmir"
+  }, 
+  {
+    "artist_name": "Randy Houser", 
+    "player": "Mesoraco, Devin", 
+    "rdio_keys": [
+      "t17403572", 
+      "t24774453"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-346", 
+    "track_name": "How Country Feels"
+  }, 
+  {
+    "artist_name": "Gary Allen", 
+    "player": "Mesoraco, Devin", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-347", 
+    "track_name": "Right Where I Need to Be"
+  }, 
+  {
+    "artist_name": "Marilyn Manson", 
+    "player": "Ondrusek, Logan", 
+    "rdio_keys": [
+      "t2817548"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-348", 
+    "track_name": "Antichrist Superstar"
+  }, 
+  {
+    "artist_name": "Otherwise", 
+    "player": "Ondrusek, Logan", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-349", 
+    "track_name": "Soldiers"
+  }, 
+  {
+    "artist_name": "House of Pain", 
+    "player": "Parra, Manny", 
+    "rdio_keys": [
+      "t8079710", 
+      "t1165164", 
+      "t1277527", 
+      "t33774013"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-350", 
+    "track_name": "Jump Around"
+  }, 
+  {
+    "artist_name": "Ace Hood", 
+    "player": "Phillips, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-351", 
+    "track_name": "Bugatti (feat. Future & Rick Ross)"
+  }, 
+  {
+    "artist_name": "Kendrick Lamar", 
+    "player": "Phillips, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-352", 
+    "track_name": "Poetic Justice (feat. Drake)"
+  }, 
+  {
+    "artist_name": "Young Jeezy", 
+    "player": "Phillips, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-353", 
+    "track_name": "R.I.P. [feat. 2 Chainz]"
+  }, 
+  {
+    "artist_name": "Motley Crue", 
+    "player": "Alex Presley", 
+    "rdio_keys": [
+      "t3378327"
+    ], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-359", 
+    "track_name": "Kickstart My Heart"
+  }, 
+  {
+    "artist_name": "Derek Trucks Band", 
+    "player": "Brian Dozier", 
+    "rdio_keys": [
+      "t2977519"
+    ], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-360", 
+    "track_name": "Sweet Inspiration"
+  }, 
+  {
+    "artist_name": "Blink-182", 
+    "player": "Brian Duensing", 
+    "rdio_keys": [], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-361", 
+    "track_name": "Mutt"
+  }, 
+  {
+    "artist_name": "B.o.B.", 
+    "player": "Darin Mastroianni", 
+    "rdio_keys": [], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-362", 
+    "track_name": "So Good"
+  }, 
+  {
+    "artist_name": "Marc Anthony", 
+    "player": "Eduardo Escobar", 
+    "rdio_keys": [
+      "t2916203"
+    ], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-363", 
+    "track_name": "Aguanile "
+  }, 
+  {
+    "artist_name": "Rocket Club", 
+    "player": "Glen Perkins", 
+    "rdio_keys": [
+      "t27447637"
+    ], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-364", 
+    "track_name": "North Country"
+  }, 
+  {
+    "artist_name": "T.I.", 
+    "player": "Joe Mauer", 
+    "rdio_keys": [
+      "t1323579", 
+      "t4360547"
+    ], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-365", 
+    "track_name": "What You Know"
+  }, 
+  {
+    "artist_name": "Lynyrd Skynyrd", 
+    "player": "Josh Willingham", 
+    "rdio_keys": [], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-366", 
+    "track_name": "Sweet Home Alabama"
+  }, 
+  {
+    "artist_name": "The Outfield", 
+    "player": "Josh Willingham", 
+    "rdio_keys": [
+      "t3920102", 
+      "t13781380", 
+      "t10654709", 
+      "t2891561", 
+      "t2974933", 
+      "t3013665", 
+      "t4492624", 
+      "t3927269", 
+      "t13763377", 
+      "t2912532"
+    ], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-367", 
+    "track_name": "Your Love"
+  }, 
+  {
+    "artist_name": "N/A", 
+    "player": "Phil Hughes", 
+    "rdio_keys": [], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-368", 
+    "track_name": "Tomorrowland"
+  }, 
+  {
+    "artist_name": "Los Adolescentes", 
+    "player": "Ricky Nolasco", 
+    "rdio_keys": [], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-369", 
+    "track_name": "Me Gusta "
+  }, 
+  {
+    "artist_name": "Danzig", 
+    "player": "Ryan Doumit", 
+    "rdio_keys": [
+      "t2917294"
+    ], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-370", 
+    "track_name": "Mother"
+  }, 
+  {
+    "artist_name": "Led Zeppelin", 
+    "player": "Trevor Plouffe", 
+    "rdio_keys": [], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-371", 
+    "track_name": "When The Levee Breaks"
+  }, 
+  {
+    "artist_name": "E 40", 
+    "player": "Vance Worley", 
+    "rdio_keys": [], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-372", 
+    "track_name": "Beatin'"
+  }, 
+  {
+    "artist_name": "Celly Cell", 
+    "player": "Vance Worley", 
+    "rdio_keys": [], 
+    "team_abbr": "MIN", 
+    "track_id": "mlb-track-373", 
+    "track_name": "It's Goin' Down Tonight"
+  }, 
+  {
+    "artist_name": "Juicy J", 
+    "player": "Phillips, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-354", 
+    "track_name": "Show Out (feat. Young Jeezy & Big Sean)"
+  }, 
+  {
+    "artist_name": "B.o.B.", 
+    "player": "Phillips, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-355", 
+    "track_name": "We Still In this B****"
+  }, 
+  {
+    "artist_name": "JASON ALDEAN", 
+    "player": "Schumaker, Skip", 
+    "rdio_keys": [
+      "t6389371"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-356", 
+    "track_name": "Tattoos On This Town"
+  }, 
+  {
+    "artist_name": "Don Omar", 
+    "player": "Simon, Alfredo", 
+    "rdio_keys": [
+      "t2843508", 
+      "t2830880", 
+      "t2786489", 
+      "t2753054"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-357", 
+    "track_name": "Dile"
+  }, 
+  {
+    "artist_name": "The Rolling Stones", 
+    "player": "Votto, Joey", 
+    "rdio_keys": [
+      "t4746457", 
+      "t3997987", 
+      "t4745943", 
+      "t6901658"
+    ], 
+    "team_abbr": "CIN", 
+    "track_id": "mlb-track-358", 
+    "track_name": "Paint it Black"
+  }, 
+  {
+    "artist_name": "Atreyu", 
+    "player": "Anthony Recker", 
+    "rdio_keys": [
+      "t11621673", 
+      "t1258897"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-374", 
+    "track_name": "Right Side of the Bed"
+  }, 
+  {
+    "artist_name": "Trevor Jones", 
+    "player": "Anthony Recker", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-375", 
+    "track_name": "Theme from last of the Mohicans"
+  }, 
+  {
+    "artist_name": "Jay-Z", 
+    "player": "Brown, Andrew", 
+    "rdio_keys": [
+      "t1196418", 
+      "t1138911"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-376", 
+    "track_name": "Already Home"
+  }, 
+  {
+    "artist_name": "Randy Rogers Band", 
+    "player": "Brown, Andrew", 
+    "rdio_keys": [
+      "t2802870"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-377", 
+    "track_name": "You Don't Know Me"
+  }, 
+  {
+    "artist_name": "Jay-Z", 
+    "player": "d'Arnaud, Travis", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-378", 
+    "track_name": "Bonnie & Clyde"
+  }, 
+  {
+    "artist_name": "Dropkick Murphys", 
+    "player": "Daniel Murphy", 
+    "rdio_keys": [
+      "t1520184", 
+      "t11699376"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-379", 
+    "track_name": "Shipping Up to Boston"
+  }, 
+  {
+    "artist_name": "House of Pain", 
+    "player": "David Wright", 
+    "rdio_keys": [
+      "t8079710", 
+      "t1165164", 
+      "t1277527", 
+      "t33774013"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-380", 
+    "track_name": "Jump Around"
+  }, 
+  {
+    "artist_name": "Jason Aldean", 
+    "player": "Dillon Gee", 
+    "rdio_keys": [
+      "t3315208", 
+      "t4105277", 
+      "t4831210"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-381", 
+    "track_name": "Crazy Town"
+  }, 
+  {
+    "artist_name": "Jimi Hendrix", 
+    "player": "Duda, Lucas", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-382", 
+    "track_name": "Purple Haze"
+  }, 
+  {
+    "artist_name": "Lynyrd Skynyrd", 
+    "player": "Duda, Lucas", 
+    "rdio_keys": [
+      "t2812759", 
+      "t3960880", 
+      "t2817244", 
+      "t2821842", 
+      "t3942071", 
+      "t2787831", 
+      "t3091204", 
+      "t2839698", 
+      "t2840366", 
+      "t2860985", 
+      "t2812578", 
+      "t38675430"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-383", 
+    "track_name": "That Smell"
+  }, 
+  {
+    "artist_name": "Marcela Ganara", 
+    "player": "Familia, Jeurys", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-384", 
+    "track_name": "Un Viajie Largo"
+  }, 
+  {
+    "artist_name": "Jose Reyes", 
+    "player": "Familia, Jeurys", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-385", 
+    "track_name": "Yo Nonaca Pa Perder"
+  }, 
+  {
+    "artist_name": "LL Cool J", 
+    "player": "Granderson, Curtis", 
+    "rdio_keys": [
+      "t9192586", 
+      "t3289618", 
+      "t2922691", 
+      "t3292669", 
+      "t23546347", 
+      "t2796575", 
+      "t3061778", 
+      "t2809510"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-386", 
+    "track_name": "I Can't Live Without My Radio"
+  }, 
+  {
+    "artist_name": "B.o.B", 
+    "player": "Granderson, Curtis", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-387", 
+    "track_name": "Ready"
+  }, 
+  {
+    "artist_name": "Rolling Stones", 
+    "player": "Ike Davis", 
+    "rdio_keys": [
+      "t2710695", 
+      "t2710271", 
+      "t8513444"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-388", 
+    "track_name": "Start Me Up"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Jose Valverde", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-389", 
+    "track_name": "End of the Line"
+  }, 
+  {
+    "artist_name": "TED NUGENT", 
+    "player": "Kirk Nieuwenhuis", 
+    "rdio_keys": [
+      "t3476154"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-390", 
+    "track_name": " STRANGLEHOLD "
+  }, 
+  {
+    "artist_name": "Luke Kaufman", 
+    "player": "Kyle Farnsworth", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-391", 
+    "track_name": "Rank Riders Anthem"
+  }, 
+  {
+    "artist_name": "Pearl Jam", 
+    "player": "Lannan, John", 
+    "rdio_keys": [
+      "t3513502"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-392", 
+    "track_name": "Animal"
+  }, 
+  {
+    "artist_name": "Secreto El Biberoa", 
+    "player": "Mejia, Jenrry", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-393", 
+    "track_name": "No Te Rindas"
+  }, 
+  {
+    "artist_name": "LeCrae", 
+    "player": "Murphy, Daniel", 
+    "rdio_keys": [
+      "t46036886"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-394", 
+    "track_name": "Tell The World"
+  }, 
+  {
+    "artist_name": "LeCrae", 
+    "player": "Murphy, Daniel", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-395", 
+    "track_name": "The Drop"
+  }, 
+  {
+    "artist_name": "Linkin Park", 
+    "player": "Murphy, Daniel", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-396", 
+    "track_name": "What I've Done"
+  }, 
+  {
+    "artist_name": "Jason Aldean", 
+    "player": "Niese, Jon", 
+    "rdio_keys": [
+      "t21744629"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-397", 
+    "track_name": "The Only Way I Know"
+  }, 
+  {
+    "artist_name": "Five Finger Death Punch", 
+    "player": "Parnell, Bobby", 
+    "rdio_keys": [
+      "t2547281", 
+      "t2547285"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-398", 
+    "track_name": "Bad Company"
+  }, 
+  {
+    "artist_name": "Lil Wayne", 
+    "player": "Quintanilla, Omar", 
+    "rdio_keys": [
+      "t2793231", 
+      "t2836109"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-399", 
+    "track_name": "Shine"
+  }, 
+  {
+    "artist_name": "White Stripes", 
+    "player": "Rice, Scott", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-400", 
+    "track_name": "Icky Thump"
+  }, 
+  {
+    "artist_name": "Angel & Khriz", 
+    "player": "Ruben Tejada", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-401", 
+    "track_name": "Na de na"
+  }, 
+  {
+    "artist_name": "New Kids On The Block", 
+    "player": "Wright, David", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-402", 
+    "track_name": "Right Stuff"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Young, Chris", 
+    "rdio_keys": [], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-403", 
+    "track_name": "Trophies"
+  }, 
+  {
+    "artist_name": "Jay-Z", 
+    "player": "Young, Eric", 
+    "rdio_keys": [
+      "t1196571", 
+      "t1138945"
+    ], 
+    "team_abbr": "NYM", 
+    "track_id": "mlb-track-404", 
+    "track_name": "Young Forever"
+  }, 
+  {
+    "artist_name": "Pitbull", 
+    "player": "Beltran, Carlos", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-405", 
+    "track_name": "Echa Pa'lla"
+  }, 
+  {
+    "artist_name": "Guns N' Roses", 
+    "player": "Beltran, Carlos", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-406", 
+    "track_name": "Welcome to the Jungle"
+  }, 
+  {
+    "artist_name": "Brantley Gilbert", 
+    "player": "Brett Gardner", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-407", 
+    "track_name": "Hell on Wheels"
+  }, 
+  {
+    "artist_name": "DJ Khaled", 
+    "player": "Brian McCann", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-408", 
+    "track_name": "All I Do Is Win"
+  }, 
+  {
+    "artist_name": "Lynyrd Skynyrd", 
+    "player": "David Robertson", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-409", 
+    "track_name": "Sweet Home Alabama"
+  }, 
+  {
+    "artist_name": "Jimmy Fallon & The Roots", 
+    "player": "Derek Jeter", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-410", 
+    "track_name": "Derek Jeter At-Bat Songs (Jimmy Fallon)"
+  }, 
+  {
+    "artist_name": "Jay-Z & Kanye West", 
+    "player": "Ellsbury, Jacoby", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-411", 
+    "track_name": "Ni**as In Paris"
+  }, 
+  {
+    "artist_name": "Locksley", 
+    "player": "Hiroki Kuroda", 
+    "rdio_keys": [
+      "t8503259", 
+      "t9790358"
+    ], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-412", 
+    "track_name": "The Whip"
+  }, 
+  {
+    "artist_name": "Anthony Santos", 
+    "player": "Ivan Nova", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-413", 
+    "track_name": "Marta Le Reina"
+  }, 
+  {
+    "artist_name": "Hot Chelle Rae", 
+    "player": "Johnson, Kelly", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-414", 
+    "track_name": "Tonight Tonight"
+  }, 
+  {
+    "artist_name": "Sublime", 
+    "player": "Kelly Johnson", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-415", 
+    "track_name": "What I Got"
+  }, 
+  {
+    "artist_name": "Run D.M.C.", 
+    "player": "Mark Teixeira", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-416", 
+    "track_name": "It's Tricky"
+  }, 
+  {
+    "artist_name": "O.A.R.", 
+    "player": "Mark Teixeira", 
+    "rdio_keys": [
+      "t16119358"
+    ], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-417", 
+    "track_name": "This Town"
+  }, 
+  {
+    "artist_name": "LeCrae ", 
+    "player": "Roberts, Brian", 
+    "rdio_keys": [], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-418", 
+    "track_name": "Don't Waste Your Life"
+  }, 
+  {
+    "artist_name": "Q-Tip", 
+    "player": "Ryan, Brendan", 
+    "rdio_keys": [
+      "t2963487", 
+      "t2970053"
+    ], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-419", 
+    "track_name": "Breathe And Stop"
+  }, 
+  {
+    "artist_name": "Godsmack", 
+    "player": "Thornton, Matt", 
+    "rdio_keys": [
+      "t2805747"
+    ], 
+    "team_abbr": "NYY", 
+    "track_id": "mlb-track-420", 
+    "track_name": "Livin' In Sin"
+  }, 
+  {
+    "artist_name": "Wisin & Yandel", 
+    "player": "Burgos, Hiram", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-421", 
+    "track_name": "Muevete"
+  }, 
+  {
+    "artist_name": "Ice Cube", 
+    "player": "Davis, Khris", 
+    "rdio_keys": [
+      "t2214761", 
+      "t2069962"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-422", 
+    "track_name": "Gangsta Rap Made Me Do It"
+  }, 
+  {
+    "artist_name": "Marc Broussard", 
+    "player": "Duke, Zach", 
+    "rdio_keys": [
+      "t2800215"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-423", 
+    "track_name": "Home"
+  }, 
+  {
+    "artist_name": "Eric Church", 
+    "player": "Duke, Zach", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-424", 
+    "track_name": "Outsiders"
+  }, 
+  {
+    "artist_name": "Wiz Khalifa", 
+    "player": "Figaro, Alfredo", 
+    "rdio_keys": [
+      "t24349273", 
+      "t24349388", 
+      "t24349337", 
+      "t24349249", 
+      "t17166341"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-425", 
+    "track_name": "Work Hard Play Hard"
+  }, 
+  {
+    "artist_name": "Tupac", 
+    "player": "Garza, Matt", 
+    "rdio_keys": [
+      "t8286328", 
+      "t8287163", 
+      "t8286986"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-426", 
+    "track_name": "Ambitionz Az A Ridah"
+  }, 
+  {
+    "artist_name": "Tupac", 
+    "player": "Garza, Matt", 
+    "rdio_keys": [
+      "t2750295", 
+      "t2750253", 
+      "t3292426", 
+      "t3293708"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-427", 
+    "track_name": "Toss it Up"
+  }, 
+  {
+    "artist_name": "Lecrae", 
+    "player": "Gennett, Scooter", 
+    "rdio_keys": [
+      "t22768599", 
+      "t42367148"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-428", 
+    "track_name": "Tell the World"
+  }, 
+  {
+    "artist_name": "Lupe Fiasco", 
+    "player": "Gindl, Caleb", 
+    "rdio_keys": [
+      "t7854905", 
+      "t7861387", 
+      "t10706237"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-429", 
+    "track_name": "The Show Goes On"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Gomez, Carlos", 
+    "rdio_keys": [
+      "t36551801", 
+      "t36557835"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-430", 
+    "track_name": "All Me"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Henderson, Jim", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-431", 
+    "track_name": "Thunderstruck"
+  }, 
+  {
+    "artist_name": "Jeremy Camp", 
+    "player": "Jeff Bianchi", 
+    "rdio_keys": [
+      "t2009432", 
+      "t11955709", 
+      "t15817267", 
+      "t2009959", 
+      "t2686669", 
+      "t2009951", 
+      "t2010025"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-432", 
+    "track_name": "Tonight"
+  }, 
+  {
+    "artist_name": "Mark Morrison", 
+    "player": "Logan Schafer", 
+    "rdio_keys": [
+      "t4288062"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-433", 
+    "track_name": "Return of the Mack"
+  }, 
+  {
+    "artist_name": "Dr. Dre", 
+    "player": "Lohse, Kyle", 
+    "rdio_keys": [
+      "t2808768", 
+      "t2808092", 
+      "t21518708"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-434", 
+    "track_name": "Next Episode"
+  }, 
+  {
+    "artist_name": "Rage Against the Machine", 
+    "player": "Lohse, Kyle", 
+    "rdio_keys": [
+      "t1518067", 
+      "t23648389", 
+      "t23648383"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-435", 
+    "track_name": "Wake Up"
+  }, 
+  {
+    "artist_name": "Sick Puppies", 
+    "player": "Lucroy, Jonathan", 
+    "rdio_keys": [
+      "t2296311", 
+      "t2068896"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-436", 
+    "track_name": "You're Going Down"
+  }, 
+  {
+    "artist_name": "Limp Bizkit", 
+    "player": "Lyle Overbay", 
+    "rdio_keys": [
+      "t2786762", 
+      "t2861485", 
+      "t2880882"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-437", 
+    "track_name": "Take A Look Around"
+  }, 
+  {
+    "artist_name": "Baby Rasta", 
+    "player": "Maldonado, Martin", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-438", 
+    "track_name": "Odio (Remix)"
+  }, 
+  {
+    "artist_name": "Major Lazer", 
+    "player": "Maldonado, Martin", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-439", 
+    "track_name": "Watch Out for This"
+  }, 
+  {
+    "artist_name": "Drowning Pool", 
+    "player": "Marco Estrada", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-440", 
+    "track_name": "Bodies"
+  }, 
+  {
+    "artist_name": "Rage Against the Machine", 
+    "player": "Mike Fiers", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-441", 
+    "track_name": "Bulls On Parade"
+  }, 
+  {
+    "artist_name": "Charlie Clouser", 
+    "player": "Mike Fiers", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-442", 
+    "track_name": "Theme from \"Saw\""
+  }, 
+  {
+    "artist_name": "Pearl Jam", 
+    "player": "Overbay, Lyle", 
+    "rdio_keys": [
+      "t35377261"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-443", 
+    "track_name": "Given to Fly"
+  }, 
+  {
+    "artist_name": "Florida Georgia Line", 
+    "player": "Reynolds, Mark", 
+    "rdio_keys": [
+      "t23965621", 
+      "t27376568", 
+      "t39846410"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-444", 
+    "track_name": "Cruise"
+  }, 
+  {
+    "artist_name": "Tego Calder\u00f3n", 
+    "player": "Rodriguez, Francisco", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-445", 
+    "track_name": "Sandunqueoso"
+  }, 
+  {
+    "artist_name": "B.o.B", 
+    "player": "Ryan Braun", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-446", 
+    "track_name": "We Still In this B****"
+  }, 
+  {
+    "artist_name": "El Alfa", 
+    "player": "Segura, Jean", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-447", 
+    "track_name": "Dando Coriente"
+  }, 
+  {
+    "artist_name": "Don Miguelo", 
+    "player": "Segura, Jean", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-448", 
+    "track_name": "Pa Que Tu Me Saluda"
+  }, 
+  {
+    "artist_name": "Rev Theory", 
+    "player": "Smith, Will", 
+    "rdio_keys": [
+      "t2842959"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-449", 
+    "track_name": "Hell Yeah"
+  }, 
+  {
+    "artist_name": "Led Zeppelin", 
+    "player": "Tom Gorzelanny", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-450", 
+    "track_name": "When the Levee Breaks"
+  }, 
+  {
+    "artist_name": "The Fratellis", 
+    "player": "Tyler Thornburg", 
+    "rdio_keys": [
+      "t2727354"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-451", 
+    "track_name": "Chelsea Dagger"
+  }, 
+  {
+    "artist_name": "Bon Jovi", 
+    "player": "Tyler Thornburg", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-452", 
+    "track_name": "Dead or Alive"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Weeks, Rickie", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-453", 
+    "track_name": "Trophies"
+  }, 
+  {
+    "artist_name": "Chimbala", 
+    "player": "Wily Peralta", 
+    "rdio_keys": [], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-454", 
+    "track_name": "Ponteme Melia"
+  }, 
+  {
+    "artist_name": "Fabolous", 
+    "player": "Yovani Gallardo", 
+    "rdio_keys": [
+      "t2765624", 
+      "t2765201"
+    ], 
+    "team_abbr": "MIL", 
+    "track_id": "mlb-track-455", 
+    "track_name": "My Time"
+  }, 
+  {
+    "artist_name": "El Sujeto ", 
+    "player": "Callaspo, Alberto", 
+    "rdio_keys": [
+      "t44475784"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-456", 
+    "track_name": "Con Cotorra No"
+  }, 
+  {
+    "artist_name": "Clyde Carson", 
+    "player": "Cespedes, Yoenis", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-457", 
+    "track_name": "Slow Down (Yoenis Cespedes remix)"
+  }, 
+  {
+    "artist_name": "Breaking Benjamin", 
+    "player": "Cook, Ryan", 
+    "rdio_keys": [
+      "t3897140", 
+      "t3897446", 
+      "t10873190", 
+      "t10873191", 
+      "t10873193", 
+      "t10819809"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-458", 
+    "track_name": "So Cold"
+  }, 
+  {
+    "artist_name": "Kid Ink", 
+    "player": "Crisp, Coco", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-459", 
+    "track_name": "Badass"
+  }, 
+  {
+    "artist_name": "N/A", 
+    "player": "Dan Otero", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-460", 
+    "track_name": "Stop Science"
+  }, 
+  {
+    "artist_name": "Warren G", 
+    "player": "Donaldson, Josh", 
+    "rdio_keys": [
+      "t9192681", 
+      "t3289729", 
+      "t8287175", 
+      "t8287004", 
+      "t3290792", 
+      "t3088915", 
+      "t3290745", 
+      "t8288264", 
+      "t2823054", 
+      "t2850283", 
+      "t2863329", 
+      "t23546474", 
+      "t2799012", 
+      "t3065844", 
+      "t2826556", 
+      "t2787267"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-461", 
+    "track_name": "Regulate"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Doolittle, Sean", 
+    "rdio_keys": [
+      "t44382208"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-462", 
+    "track_name": "For Whom the Bell Tolls"
+  }, 
+  {
+    "artist_name": "Dropkick Murphys", 
+    "player": "Freiman, Nate", 
+    "rdio_keys": [
+      "t1520184", 
+      "t11699376"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-463", 
+    "track_name": "Shipping up to Boston"
+  }, 
+  {
+    "artist_name": "Wolfgang Gartner", 
+    "player": "Griffin, A.J.", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-464", 
+    "track_name": "Illmerica"
+  }, 
+  {
+    "artist_name": "Eagles", 
+    "player": "Jaso, John", 
+    "rdio_keys": [
+      "t32817230", 
+      "t32817287"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-465", 
+    "track_name": "Those Shoes"
+  }, 
+  {
+    "artist_name": "Foo Fighters", 
+    "player": "Johnson, Jim", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-466", 
+    "track_name": "The Pretender "
+  }, 
+  {
+    "artist_name": "Pimp C, Lil Keke & P.O.P", 
+    "player": "Kazmir, Scott", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-467", 
+    "track_name": "Knockin' Doorz Down"
+  }, 
+  {
+    "artist_name": "Common", 
+    "player": "Lowrie, Jed", 
+    "rdio_keys": [
+      "t3387073", 
+      "t2717665", 
+      "t2718144", 
+      "t3386138"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-468", 
+    "track_name": "Universal Mind Control"
+  }, 
+  {
+    "artist_name": "Eric Church", 
+    "player": "Moss, Brandon", 
+    "rdio_keys": [
+      "t7770042", 
+      "t41235175", 
+      "t10392891"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-469", 
+    "track_name": "Homeboy"
+  }, 
+  {
+    "artist_name": "Bad Motorfinger", 
+    "player": "Norris, Derek", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-470", 
+    "track_name": "Outshined"
+  }, 
+  {
+    "artist_name": "Danzig", 
+    "player": "Punto, Nick", 
+    "rdio_keys": [
+      "t2917294"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-471", 
+    "track_name": "Mother"
+  }, 
+  {
+    "artist_name": "Ryback (Jim Johnston WWE)", 
+    "player": "Reddick, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-472", 
+    "track_name": "Meat on the Table"
+  }, 
+  {
+    "artist_name": "Kid Cudi", 
+    "player": "Sam Fuld", 
+    "rdio_keys": [
+      "t2773605", 
+      "t2773831", 
+      "t2817330", 
+      "t2818312"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-473", 
+    "track_name": "Cudi Zone"
+  }, 
+  {
+    "artist_name": "Korn", 
+    "player": "Scribner, Evan", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-474", 
+    "track_name": "Blind"
+  }, 
+  {
+    "artist_name": "Guns N' Roses", 
+    "player": "Sogard, Eric", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-475", 
+    "track_name": "Welcome to the Jungle"
+  }, 
+  {
+    "artist_name": "Jason Aldeen", 
+    "player": "Straily, Dan", 
+    "rdio_keys": [], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-476", 
+    "track_name": "My Kinda Party"
+  }, 
+  {
+    "artist_name": "Skillet", 
+    "player": "Vogt, Stephen", 
+    "rdio_keys": [
+      "t1285064"
+    ], 
+    "team_abbr": "OAK", 
+    "track_id": "mlb-track-477", 
+    "track_name": "Comatose"
+  }, 
+  {
+    "artist_name": "Arcangel", 
+    "player": "Altuve, Jose", 
+    "rdio_keys": [
+      "t2746723", 
+      "t2813616"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-478", 
+    "track_name": "Como tu me tocas"
+  }, 
+  {
+    "artist_name": "Five Finger Death Punch ", 
+    "player": "Anthony Bass", 
+    "rdio_keys": [
+      "t12346671", 
+      "t11784327", 
+      "t11784840"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-479", 
+    "track_name": "Back For More"
+  }, 
+  {
+    "artist_name": "Macklemore", 
+    "player": "Castro, Jason", 
+    "rdio_keys": [], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-480", 
+    "track_name": "Thrift Shop"
+  }, 
+  {
+    "artist_name": "One Republic", 
+    "player": "Corporan, Carlos", 
+    "rdio_keys": [], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-481", 
+    "track_name": "Good Life"
+  }, 
+  {
+    "artist_name": "Big Sean", 
+    "player": "Dexter Fowler", 
+    "rdio_keys": [
+      "t22862467", 
+      "t22862469", 
+      "t35409018", 
+      "t35409017"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-482", 
+    "track_name": "Guap"
+  }, 
+  {
+    "artist_name": "Eddie Grant", 
+    "player": "Dominguez, Matt", 
+    "rdio_keys": [
+      "t15972557", 
+      "t21221914", 
+      "t26076680", 
+      "t28537114", 
+      "t31499076", 
+      "t31743955", 
+      "t31746171", 
+      "t31764781", 
+      "t33599471", 
+      "t30025291", 
+      "t30085463", 
+      "t39147255"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-483", 
+    "track_name": "Electric Avenue"
+  }, 
+  {
+    "artist_name": "Trip Lee", 
+    "player": "Downs, Darin", 
+    "rdio_keys": [
+      "t16709326", 
+      "t28100638", 
+      "t31932729", 
+      "t38687584"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-484", 
+    "track_name": "I'm Good"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Fields, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-485", 
+    "track_name": "Wherever I May Roam"
+  }, 
+  {
+    "artist_name": "Meek Mill", 
+    "player": "Fowler, Dexter", 
+    "rdio_keys": [
+      "t22091068", 
+      "t22084614"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-486", 
+    "track_name": "Believe It"
+  }, 
+  {
+    "artist_name": "Johnny Cash", 
+    "player": "Harrell, Lucas", 
+    "rdio_keys": [], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-487", 
+    "track_name": "When The Man Comes Around"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Jason Castro", 
+    "rdio_keys": [], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-488", 
+    "track_name": "Back in Black"
+  }, 
+  {
+    "artist_name": "Skrillex", 
+    "player": "Jason Castro", 
+    "rdio_keys": [], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-489", 
+    "track_name": "Bangarang"
+  }, 
+  {
+    "artist_name": "Fuego Omega ", 
+    "player": "Jesus Guzman", 
+    "rdio_keys": [
+      "t13044892"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-490", 
+    "track_name": "Super Estrella"
+  }, 
+  {
+    "artist_name": "J Alvarez", 
+    "player": "Jose Altuve", 
+    "rdio_keys": [
+      "t11009962", 
+      "t24944390", 
+      "t27622647", 
+      "t42231566"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-491", 
+    "track_name": "Le Pregunta"
+  }, 
+  {
+    "artist_name": "Johnny Cash", 
+    "player": "Lucas Harrell", 
+    "rdio_keys": [
+      "t2703479", 
+      "t2866520"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-492", 
+    "track_name": "The Man Comes Around"
+  }, 
+  {
+    "artist_name": "Rage Against The Machine", 
+    "player": "Matt Albers", 
+    "rdio_keys": [], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-493", 
+    "track_name": "Sleep Now In The Fire"
+  }, 
+  {
+    "artist_name": "Rage Against the Machine", 
+    "player": "Qualls, Chad", 
+    "rdio_keys": [
+      "t2895546", 
+      "t23648250", 
+      "t23648251"
+    ], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-494", 
+    "track_name": "Killing in the Name"
+  }, 
+  {
+    "artist_name": "Billy Squire", 
+    "player": "White, Alex", 
+    "rdio_keys": [], 
+    "team_abbr": "HOU", 
+    "track_id": "mlb-track-495", 
+    "track_name": "The Stroke"
+  }, 
+  {
+    "artist_name": "Walking Dead", 
+    "player": "A.J. Burnett", 
+    "rdio_keys": [], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-496", 
+    "track_name": "Theme from The Walking Dead"
+  }, 
+  {
+    "artist_name": "DMX", 
+    "player": "Adams, Mike", 
+    "rdio_keys": [
+      "t3144896"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-497", 
+    "track_name": "Intro"
+  }, 
+  {
+    "artist_name": "Tyga", 
+    "player": "Brown, Domonic", 
+    "rdio_keys": [
+      "t26683931", 
+      "t26683928", 
+      "t29652556", 
+      "t29616570", 
+      "t29921086", 
+      "t29921090"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-498", 
+    "track_name": "Dope"
+  }, 
+  {
+    "artist_name": "Meek Mill", 
+    "player": "Brown, Domonic", 
+    "rdio_keys": [
+      "t26990701"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-499", 
+    "track_name": "House Party"
+  }, 
+  {
+    "artist_name": "2 Chainz", 
+    "player": "Brown, Domonic", 
+    "rdio_keys": [
+      "t19318692", 
+      "t19446165", 
+      "t19446205", 
+      "t19446179", 
+      "t24340023"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-500", 
+    "track_name": "I'm Different"
+  }, 
+  {
+    "artist_name": "Marilyn Manson", 
+    "player": "Burnett, A.J.", 
+    "rdio_keys": [], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-501", 
+    "track_name": "The Beautiful People"
+  }, 
+  {
+    "artist_name": "David Banner", 
+    "player": "Byrd, Marlon", 
+    "rdio_keys": [
+      "t2876159", 
+      "t3106609", 
+      "t3107456", 
+      "t2756866"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-502", 
+    "track_name": "Get Like Me"
+  }, 
+  {
+    "artist_name": "Gang Starr", 
+    "player": "Byrd, Marlon", 
+    "rdio_keys": [
+      "t12043254", 
+      "t2337132", 
+      "t2335703", 
+      "t23533005"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-503", 
+    "track_name": "Work"
+  }, 
+  {
+    "artist_name": "Tego Calderon", 
+    "player": "Galvis, Freddy", 
+    "rdio_keys": [
+      "t35358029"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-504", 
+    "track_name": "Poquito"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Hamels, Cole", 
+    "rdio_keys": [], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-505", 
+    "track_name": "Thunderstruck"
+  }, 
+  {
+    "artist_name": "French Montana", 
+    "player": "Howard, Ryan", 
+    "rdio_keys": [
+      "t31380881", 
+      "t31380860", 
+      "t31380536"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-506", 
+    "track_name": "Freaks"
+  }, 
+  {
+    "artist_name": "French Montana & Chinx Drugz", 
+    "player": "Howard, Ryan", 
+    "rdio_keys": [], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-507", 
+    "track_name": "I'm A Coke Boy"
+  }, 
+  {
+    "artist_name": "Tyga", 
+    "player": "Howard, Ryan", 
+    "rdio_keys": [
+      "t29092471", 
+      "t29092487", 
+      "t29616645", 
+      "t29652578", 
+      "t29921129", 
+      "t29921134"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-508", 
+    "track_name": "Molly"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Howard, Ryan", 
+    "rdio_keys": [
+      "t36552082", 
+      "t36557297", 
+      "t36557511"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-509", 
+    "track_name": "Started From The Bottom"
+  }, 
+  {
+    "artist_name": "Trick Daddy", 
+    "player": "John Mayberry", 
+    "rdio_keys": [], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-510", 
+    "track_name": "We Ride Dunks"
+  }, 
+  {
+    "artist_name": "Imagine Dragons", 
+    "player": "Kendrick, Kyle", 
+    "rdio_keys": [
+      "t20005736", 
+      "t27588079", 
+      "t28883180", 
+      "t34598330"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-511", 
+    "track_name": "Radioactive"
+  }, 
+  {
+    "artist_name": "Ted Nugent", 
+    "player": "Lee, Cliff", 
+    "rdio_keys": [
+      "t4002683"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-512", 
+    "track_name": "Stranglehold"
+  }, 
+  {
+    "artist_name": "Tony Vega", 
+    "player": "Nieves, Wil", 
+    "rdio_keys": [
+      "t18657126"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-513", 
+    "track_name": "No Soy Yo"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Papelbon, Jonathan", 
+    "rdio_keys": [
+      "t7134096"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-514", 
+    "track_name": "For Whom The Bell Tolls"
+  }, 
+  {
+    "artist_name": "Kanye West & Jay-Z", 
+    "player": "Revere, Ben", 
+    "rdio_keys": [], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-515", 
+    "track_name": "Who Gon Stop Me"
+  }, 
+  {
+    "artist_name": "Chris Brown", 
+    "player": "Rollins, Jimmy", 
+    "rdio_keys": [], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-516", 
+    "track_name": "Fine China"
+  }, 
+  {
+    "artist_name": "Rich Gang", 
+    "player": "Rollins, Jimmy", 
+    "rdio_keys": [
+      "t34416984", 
+      "t34416995", 
+      "t34417026", 
+      "t34417004"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-517", 
+    "track_name": "Tapout"
+  }, 
+  {
+    "artist_name": "Phil Collins", 
+    "player": "Ruiz, Carlos", 
+    "rdio_keys": [], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-518", 
+    "track_name": "In The Air Tonight"
+  }, 
+  {
+    "artist_name": "Led Zeppelin", 
+    "player": "Utley, Chase", 
+    "rdio_keys": [
+      "t38240649", 
+      "t38242738", 
+      "t38239561", 
+      "t38238810", 
+      "t38243800", 
+      "t38242014"
+    ], 
+    "team_abbr": "PHI", 
+    "track_id": "mlb-track-519", 
+    "track_name": "Kashmir"
+  }, 
+  {
+    "artist_name": "Keith Anderson", 
+    "player": "Allen, Cody", 
+    "rdio_keys": [
+      "t2917729", 
+      "t3278300"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-520", 
+    "track_name": "Pickin' Wildflowers"
+  }, 
+  {
+    "artist_name": "Shinedown", 
+    "player": "Allen, Cody", 
+    "rdio_keys": [
+      "t6856662", 
+      "t1151605", 
+      "t1260802", 
+      "t38871162"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-521", 
+    "track_name": "Sound of Madness"
+  }, 
+  {
+    "artist_name": "Brantley Gilbert", 
+    "player": "Allen, Cody", 
+    "rdio_keys": [
+      "t11368878", 
+      "t11376864"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-522", 
+    "track_name": "Take It Outside"
+  }, 
+  {
+    "artist_name": "Lil Wayne", 
+    "player": "Aviles, Mike", 
+    "rdio_keys": [
+      "t2778888"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-523", 
+    "track_name": "Hit Em Up"
+  }, 
+  {
+    "artist_name": "Refused", 
+    "player": "Axford, John", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-524", 
+    "track_name": "New Noise"
+  }, 
+  {
+    "artist_name": "Trinidad James", 
+    "player": "Bourn, Michael", 
+    "rdio_keys": [
+      "t27374851"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-525", 
+    "track_name": "All Gold Everything (Remix)"
+  }, 
+  {
+    "artist_name": "Page", 
+    "player": "Bourn, Michael", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-526", 
+    "track_name": "I'm Still Fly (feat. Drake)"
+  }, 
+  {
+    "artist_name": "B.o.B.", 
+    "player": "Bourn, Michael", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-527", 
+    "track_name": "We Still In This B****"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Brantley, Michael", 
+    "rdio_keys": [
+      "t36552082", 
+      "t36557297", 
+      "t36557511"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-528", 
+    "track_name": "Started From the Bottom"
+  }, 
+  {
+    "artist_name": "Farruko", 
+    "player": "Cabrera, Asdrubal", 
+    "rdio_keys": [
+      "t17585163"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-529", 
+    "track_name": "Dime Que Hago"
+  }, 
+  {
+    "artist_name": "Crazy Design & Carlitos Wey", 
+    "player": "Cabrera, Asdrubal", 
+    "rdio_keys": [
+      "t20925371", 
+      "t18865217"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-530", 
+    "track_name": "El Teke Teke"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Cabrera, Asdrubal", 
+    "rdio_keys": [
+      "t19940627", 
+      "t34500714", 
+      "t42025609", 
+      "t44122220"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-531", 
+    "track_name": "Limbo"
+  }, 
+  {
+    "artist_name": "Vitico Castillo", 
+    "player": "Cabrera, Asdrubal", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-532", 
+    "track_name": "No Me Cantinero"
+  }, 
+  {
+    "artist_name": "Lecrae", 
+    "player": "Gomes, Yan", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-533", 
+    "track_name": "Dream"
+  }, 
+  {
+    "artist_name": "Rage Against The Machine", 
+    "player": "Johnson, Elliot", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-534", 
+    "track_name": "Killing in the Name Of"
+  }, 
+  {
+    "artist_name": "Busta Rhymes", 
+    "player": "Kipnis, Jason", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-535", 
+    "track_name": "Put Your Hands Where My Eyes Can See"
+  }, 
+  {
+    "artist_name": "Benny Benassi & The Biz", 
+    "player": "Kipnis, Jason", 
+    "rdio_keys": [
+      "t24943955", 
+      "t32365169", 
+      "t34709030"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-536", 
+    "track_name": "Satisfaction (RL Grime Remix)"
+  }, 
+  {
+    "artist_name": "Rush", 
+    "player": "Kluber, Corey", 
+    "rdio_keys": [
+      "t2873973", 
+      "t2881633", 
+      "t3071170", 
+      "t3305303", 
+      "t8205093"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-537", 
+    "track_name": "Limelight"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Kluber, Corey", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-538", 
+    "track_name": "Thunderstruck"
+  }, 
+  {
+    "artist_name": "Skillet", 
+    "player": "Masterson, Justin", 
+    "rdio_keys": [
+      "t1285034"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-539", 
+    "track_name": "Rebirthing"
+  }, 
+  {
+    "artist_name": "Mark Morrison", 
+    "player": "McAllister, Zach", 
+    "rdio_keys": [
+      "t4288062"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-540", 
+    "track_name": "Return of the Mack"
+  }, 
+  {
+    "artist_name": "Pantera", 
+    "player": "Pestano, Vinnie", 
+    "rdio_keys": [
+      "t1317352", 
+      "t1317680", 
+      "t17406143", 
+      "t35659038", 
+      "t1224771", 
+      "t1265958"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-541", 
+    "track_name": "Walk"
+  }, 
+  {
+    "artist_name": "Rhett Akins", 
+    "player": "Raburn, Ryan", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-542", 
+    "track_name": "Kiss My Country A**"
+  }, 
+  {
+    "artist_name": "Randy Houser", 
+    "player": "Raburn, Ryan", 
+    "rdio_keys": [
+      "t5480728", 
+      "t5478640"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-543", 
+    "track_name": "Whistlin' Dixie"
+  }, 
+  {
+    "artist_name": "Rick Ross", 
+    "player": "Sellers, Justin", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-544", 
+    "track_name": "Marble Floors"
+  }, 
+  {
+    "artist_name": "Awolnation", 
+    "player": "Sellers, Justin", 
+    "rdio_keys": [
+      "t8169595", 
+      "t40463796"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-545", 
+    "track_name": "Sail"
+  }, 
+  {
+    "artist_name": "Fort Minor", 
+    "player": "Shaw, Bryan", 
+    "rdio_keys": [
+      "t1683066", 
+      "t1683065", 
+      "t4133674", 
+      "t1238807"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-546", 
+    "track_name": "Remember the Name"
+  }, 
+  {
+    "artist_name": "AWOLNATION", 
+    "player": "Shaw, Bryan", 
+    "rdio_keys": [
+      "t8169595", 
+      "t40463796"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-547", 
+    "track_name": "Sail"
+  }, 
+  {
+    "artist_name": "Ice Cube", 
+    "player": "Swisher, Nick", 
+    "rdio_keys": [
+      "t2095574"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-548", 
+    "track_name": "Check Yo Self"
+  }, 
+  {
+    "artist_name": "LMFAO", 
+    "player": "Swisher, Nick", 
+    "rdio_keys": [
+      "t28420028"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-549", 
+    "track_name": "Party Rock Anthem"
+  }, 
+  {
+    "artist_name": "Outasight", 
+    "player": "Swisher, Nick", 
+    "rdio_keys": [], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-550", 
+    "track_name": "Tonight is the Night"
+  }, 
+  {
+    "artist_name": "Snoop Dogg", 
+    "player": "Swisher, Nick", 
+    "rdio_keys": [
+      "t8286708", 
+      "t8286994", 
+      "t8286906", 
+      "t8286972", 
+      "t8287167"
+    ], 
+    "team_abbr": "CLE", 
+    "track_id": "mlb-track-551", 
+    "track_name": "Who Am I? (What's My Name)"
+  }, 
+  {
+    "artist_name": "Jay-Z", 
+    "player": "Belt, Brandon", 
+    "rdio_keys": [
+      "t2702875", 
+      "t2884090", 
+      "t6896047", 
+      "t6896118", 
+      "t6896508"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-552", 
+    "track_name": "99 Problems"
+  }, 
+  {
+    "artist_name": "J. Balvin", 
+    "player": "Blanco, Gregor", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-553", 
+    "track_name": "Yo Te Lo Dijos"
+  }, 
+  {
+    "artist_name": "Lynyrd Skynyrd", 
+    "player": "Bumgarner, Madison", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-554", 
+    "track_name": "Simple Man"
+  }, 
+  {
+    "artist_name": "Brantley Gilbert", 
+    "player": "Buster Posey", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-555", 
+    "track_name": "Hell on Wheels"
+  }, 
+  {
+    "artist_name": "Ray Scott", 
+    "player": "Cain, Matt", 
+    "rdio_keys": [
+      "t17788238"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-556", 
+    "track_name": "Law Man"
+  }, 
+  {
+    "artist_name": "Living Colour", 
+    "player": "Casilla, Santiago", 
+    "rdio_keys": [
+      "t4863541", 
+      "t41305794"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-557", 
+    "track_name": "Cult of Personality"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Crawford, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-558", 
+    "track_name": "Forever"
+  }, 
+  {
+    "artist_name": "J. Cole", 
+    "player": "Crawford, Brandon", 
+    "rdio_keys": [
+      "t11602053"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-559", 
+    "track_name": "God's Gift"
+  }, 
+  {
+    "artist_name": "Kevin Roudolf", 
+    "player": "Crawford, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-560", 
+    "track_name": "I Made It"
+  }, 
+  {
+    "artist_name": "Zion I", 
+    "player": "Javier Lopez", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-561", 
+    "track_name": "Coastin'"
+  }, 
+  {
+    "artist_name": "Pilar", 
+    "player": "Jeremy Affeldt", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-562", 
+    "track_name": "Fireproof"
+  }, 
+  {
+    "artist_name": "Eminem", 
+    "player": "Kontos, George", 
+    "rdio_keys": [
+      "t11900050", 
+      "t2784248", 
+      "t2866342", 
+      "t35409403"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-563", 
+    "track_name": "Till I Collapse"
+  }, 
+  {
+    "artist_name": "Imagine Dragons", 
+    "player": "Lincecum, Tim", 
+    "rdio_keys": [
+      "t27588111", 
+      "t20005759", 
+      "t27376554"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-564", 
+    "track_name": "It's Time"
+  }, 
+  {
+    "artist_name": "Don Omar", 
+    "player": "Marco Scutaro", 
+    "rdio_keys": [
+      "t9191888", 
+      "t6847620", 
+      "t15038020", 
+      "t6840690", 
+      "t44122247"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-565", 
+    "track_name": "Danza Kuduro"
+  }, 
+  {
+    "artist_name": "Red Hot Chili Peppers", 
+    "player": "Noonan, Nick", 
+    "rdio_keys": [
+      "t1185182", 
+      "t1265008"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-566", 
+    "track_name": "Can't Stop"
+  }, 
+  {
+    "artist_name": "Big Sean", 
+    "player": "Pablo Sandoval", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-567", 
+    "track_name": "Dance"
+  }, 
+  {
+    "artist_name": "Calle 13", 
+    "player": "Pagan, Angel", 
+    "rdio_keys": [
+      "t7105401", 
+      "t12346800"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-568", 
+    "track_name": "Baile de los Pobres"
+  }, 
+  {
+    "artist_name": "Justine Moore", 
+    "player": "Pence, Hunter", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-569", 
+    "track_name": "Beer Time"
+  }, 
+  {
+    "artist_name": "Justin Moore", 
+    "player": "Pence, Hunter", 
+    "rdio_keys": [
+      "t9717272"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-570", 
+    "track_name": "Redneck Side"
+  }, 
+  {
+    "artist_name": "Alter Bridge", 
+    "player": "Ryan Vogelsong", 
+    "rdio_keys": [
+      "t2290357"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-571", 
+    "track_name": "Metalingus"
+  }, 
+  {
+    "artist_name": "Baroni One Time", 
+    "player": "Sanchez, Hector", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-572", 
+    "track_name": "En La Esquina"
+  }, 
+  {
+    "artist_name": "Arcangel", 
+    "player": "Sanchez, Hector", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-573", 
+    "track_name": "Rico Por Siempre"
+  }, 
+  {
+    "artist_name": "Arcangel", 
+    "player": "Sandoval, Pablo", 
+    "rdio_keys": [
+      "t30648854"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-574", 
+    "track_name": "Flow Violento"
+  }, 
+  {
+    "artist_name": "Bauuer", 
+    "player": "Sandoval, Pablo", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-575", 
+    "track_name": "Harlem Shake"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Sandoval, Pablo", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-576", 
+    "track_name": "Llegamos a la Disco"
+  }, 
+  {
+    "artist_name": "Don Omar", 
+    "player": "Sandoval, Pablo", 
+    "rdio_keys": [
+      "t17160423", 
+      "t42025605"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-577", 
+    "track_name": "Zumba"
+  }, 
+  {
+    "artist_name": "Entre Mar Y Cordillera", 
+    "player": "Santiago Casilla", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-578", 
+    "track_name": "Mi Roca Y Mi Castillo"
+  }, 
+  {
+    "artist_name": "Banda MS", 
+    "player": "Sergio Romo", 
+    "rdio_keys": [], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-579", 
+    "track_name": "El Mechon"
+  }, 
+  {
+    "artist_name": "Justin Moore", 
+    "player": "Tim Hudson", 
+    "rdio_keys": [
+      "t4745006"
+    ], 
+    "team_abbr": "SF", 
+    "track_id": "mlb-track-580", 
+    "track_name": "The Only Place I Call Home"
+  }, 
+  {
+    "artist_name": "Nelly", 
+    "player": "Adams, Matt", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-581", 
+    "track_name": "What Da Hook Gon Be"
+  }, 
+  {
+    "artist_name": "Turnpike Troubadours", 
+    "player": "Carpenter, Matt", 
+    "rdio_keys": [
+      "t4807083"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-582", 
+    "track_name": "Long Hot Summer Day"
+  }, 
+  {
+    "artist_name": "E40", 
+    "player": "Craig, Allen", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-583", 
+    "track_name": "Function"
+  }, 
+  {
+    "artist_name": "P-Diddy", 
+    "player": "Cruz, Tony", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-584", 
+    "track_name": "Can't Hold Me Down - Instrumental"
+  }, 
+  {
+    "artist_name": "Pitbull", 
+    "player": "Cruz, Tony", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-585", 
+    "track_name": "Don't Stop the Party (feat. TJR)"
+  }, 
+  {
+    "artist_name": "Red Hot Chili Peppers", 
+    "player": "Descalso, Daniel", 
+    "rdio_keys": [
+      "t1227853", 
+      "t1259724"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-586", 
+    "track_name": "Dani California"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Descalso, Daniel", 
+    "rdio_keys": [
+      "t16152491", 
+      "t15966487", 
+      "t16044040"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-587", 
+    "track_name": "The Motto"
+  }, 
+  {
+    "artist_name": "Motley Crue", 
+    "player": "Ellis, Mark", 
+    "rdio_keys": [
+      "t3344064", 
+      "t3315738", 
+      "t3317880"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-588", 
+    "track_name": "Dr. Feelgood"
+  }, 
+  {
+    "artist_name": "El Adictiva Banda", 
+    "player": "Garcia, Jaime", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-589", 
+    "track_name": "El Ausente"
+  }, 
+  {
+    "artist_name": "Jim Johnston", 
+    "player": "Holliday, Matt", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-590", 
+    "track_name": "WWE: Crank It Up (Big Show) [feat. Brand New Sin]"
+  }, 
+  {
+    "artist_name": "Sidelajus", 
+    "player": "Jaime Garcia", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-591", 
+    "track_name": "Warriors"
+  }, 
+  {
+    "artist_name": "Green Day", 
+    "player": "Jason Motte", 
+    "rdio_keys": [
+      "t1150388", 
+      "t1207214"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-592", 
+    "track_name": "Brain Stew"
+  }, 
+  {
+    "artist_name": "Pitbull", 
+    "player": "Jay, Jon", 
+    "rdio_keys": [
+      "t275696"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-593", 
+    "track_name": "Born and Raised"
+  }, 
+  {
+    "artist_name": "Jay-Z", 
+    "player": "Jay, Jon", 
+    "rdio_keys": [
+      "t6896094", 
+      "t6896025"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-594", 
+    "track_name": "Public Service Announcement"
+  }, 
+  {
+    "artist_name": "Red Hot Chili Peppers", 
+    "player": "Kozma, Pete", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-595", 
+    "track_name": "Around The World"
+  }, 
+  {
+    "artist_name": "Godsmack", 
+    "player": "Kozma, Pete", 
+    "rdio_keys": [
+      "t2823969", 
+      "t2740843", 
+      "t2824588", 
+      "t3935909"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-596", 
+    "track_name": "Keep Away"
+  }, 
+  {
+    "artist_name": "Hank Williams Jr.", 
+    "player": "Lynn, Lance", 
+    "rdio_keys": [
+      "t10421964", 
+      "t10907919", 
+      "t45257022"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-597", 
+    "track_name": "Country Boy Can Survive"
+  }, 
+  {
+    "artist_name": "Ace Hood", 
+    "player": "Matt Adams", 
+    "rdio_keys": [
+      "t2718036", 
+      "t2719137", 
+      "t18661359"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-598", 
+    "track_name": "Cash Flow"
+  }, 
+  {
+    "artist_name": "Macklemore", 
+    "player": "Miller, Shelby", 
+    "rdio_keys": [
+      "t33458038"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-599", 
+    "track_name": "Can't Hold Us"
+  }, 
+  {
+    "artist_name": "Wisin Y Yandel", 
+    "player": "Molina, Yadier", 
+    "rdio_keys": [
+      "t7469345", 
+      "t7469975"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-600", 
+    "track_name": "Sigan Bailando"
+  }, 
+  {
+    "artist_name": "Zion, feat. Jory y Ken-y", 
+    "player": "Peralta, Jhonny", 
+    "rdio_keys": [
+      "t30648829"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-601", 
+    "track_name": "More"
+  }, 
+  {
+    "artist_name": "Winsin y Yandel", 
+    "player": "Peralta, Jhonny", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-602", 
+    "track_name": "Party"
+  }, 
+  {
+    "artist_name": "Snoop Dog & Dr. Dre", 
+    "player": "Peter Bourjos", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-603", 
+    "track_name": "Still D.R.E."
+  }, 
+  {
+    "artist_name": "KoRn", 
+    "player": "Robinson, Shane", 
+    "rdio_keys": [], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-604", 
+    "track_name": "Shoots and Ladders"
+  }, 
+  {
+    "artist_name": "Alabama", 
+    "player": "Wainwright, Adam", 
+    "rdio_keys": [
+      "t3598534", 
+      "t2896757", 
+      "t2902291", 
+      "t2919678", 
+      "t3815263", 
+      "t3635823", 
+      "t2928911", 
+      "t2901217"
+    ], 
+    "team_abbr": "STL", 
+    "track_id": "mlb-track-605", 
+    "track_name": "Song of the South"
+  }, 
+  {
+    "artist_name": "Creedence Clearwater Revival", 
+    "player": "Ackley, Dustin", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-606", 
+    "track_name": "Fortunate Son"
+  }, 
+  {
+    "artist_name": "Commodores", 
+    "player": "Almonte, Abraham", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-607", 
+    "track_name": "Brick House"
+  }, 
+  {
+    "artist_name": "Bones, Thugs , & Harmony ", 
+    "player": "Avery, Xavier", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-608", 
+    "track_name": "Crossroads"
+  }, 
+  {
+    "artist_name": "Vanilla Ice", 
+    "player": "Beavan, Blake", 
+    "rdio_keys": [
+      "t5810491", 
+      "t18198151", 
+      "t5836626", 
+      "t18197528", 
+      "t38274870", 
+      "t38269354", 
+      "t38877981", 
+      "t39310174"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-609", 
+    "track_name": "Ice Ice Baby"
+  }, 
+  {
+    "artist_name": "Guns & Roses", 
+    "player": "Bloomquist, Willie", 
+    "rdio_keys": [
+      "t1515332", 
+      "t3098532"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-610", 
+    "track_name": "Paradise City"
+  }, 
+  {
+    "artist_name": "Guns & Roses", 
+    "player": "Bloomquist, Willie", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-611", 
+    "track_name": "Sweet Child O'Mine"
+  }, 
+  {
+    "artist_name": "Johnny Cash", 
+    "player": "Buck, John", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-612", 
+    "track_name": "Big Bad John"
+  }, 
+  {
+    "artist_name": "Jason Aldean", 
+    "player": "Buck, John", 
+    "rdio_keys": [
+      "t21744619"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-613", 
+    "track_name": "Wheels Rollin'"
+  }, 
+  {
+    "artist_name": "Secreto El Biberon", 
+    "player": "Cano, Robinson", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-614", 
+    "track_name": "El Que No Aguante La Presion "
+  }, 
+  {
+    "artist_name": "Black Point", 
+    "player": "Cano, Robinson", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-615", 
+    "track_name": "Me Kitee Star"
+  }, 
+  {
+    "artist_name": "Chimbala", 
+    "player": "Cano, Robinson", 
+    "rdio_keys": [
+      "t19404807"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-616", 
+    "track_name": "Te Prendo"
+  }, 
+  {
+    "artist_name": "Boston", 
+    "player": "Franklin, Nick", 
+    "rdio_keys": [
+      "t2888697", 
+      "t3578667"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-617", 
+    "track_name": "Don't Look Back"
+  }, 
+  {
+    "artist_name": "Journey", 
+    "player": "Franklin, Nick", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-618", 
+    "track_name": "Don't Stop Believin'"
+  }, 
+  {
+    "artist_name": "Juelz Santana", 
+    "player": "Franklin, Nick", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-619", 
+    "track_name": "The Second Coming"
+  }, 
+  {
+    "artist_name": "DJ Kool", 
+    "player": "Furbush, Charlie", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-620", 
+    "track_name": "Let Me Clear My Throat"
+  }, 
+  {
+    "artist_name": "Newsboys", 
+    "player": "Hart, Corey", 
+    "rdio_keys": [
+      "t5482953", 
+      "t5496552"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-621", 
+    "track_name": "Born Again"
+  }, 
+  {
+    "artist_name": "Six Def", 
+    "player": "Hernandez, Felix", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-622", 
+    "track_name": "I'm the King"
+  }, 
+  {
+    "artist_name": "Steve Miller Band", 
+    "player": "Miller, Brad", 
+    "rdio_keys": [
+      "t36872216"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-623", 
+    "track_name": "Jet Airliner"
+  }, 
+  {
+    "artist_name": "Beastie Boys", 
+    "player": "Miller, Brad", 
+    "rdio_keys": [
+      "t2458998", 
+      "t2457688", 
+      "t2458125", 
+      "t2458109", 
+      "t36231734"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-624", 
+    "track_name": "Sabotage"
+  }, 
+  {
+    "artist_name": "Tego Calderon", 
+    "player": "Rodney, Fernando", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-625", 
+    "track_name": "A Mi Papa"
+  }, 
+  {
+    "artist_name": "Grits", 
+    "player": "Saunders, Michael", 
+    "rdio_keys": [
+      "t22727325", 
+      "t27654868"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-626", 
+    "track_name": "Ooh Ahh (My Life Be Like) [feat. tobyMac]"
+  }, 
+  {
+    "artist_name": "Randy Houser", 
+    "player": "Seager, Kyle", 
+    "rdio_keys": [
+      "t24774341"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-627", 
+    "track_name": "Runnin' Outta Moonlight"
+  }, 
+  {
+    "artist_name": "Dierks Bentley", 
+    "player": "Smoak, Justin", 
+    "rdio_keys": [
+      "t8300939", 
+      "t14158586"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-628", 
+    "track_name": "Am I The Only One"
+  }, 
+  {
+    "artist_name": "Flo Rida", 
+    "player": "Sucre, Jesus", 
+    "rdio_keys": [
+      "t1221896"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-629", 
+    "track_name": "Sugar"
+  }, 
+  {
+    "artist_name": "El Alfa", 
+    "player": "Triunfel, Carlos", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-630", 
+    "track_name": "Sienta La Para"
+  }, 
+  {
+    "artist_name": "Jimi Hendrix", 
+    "player": "Wilhelmsen, Tom", 
+    "rdio_keys": [], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-631", 
+    "track_name": "Voodoo Child"
+  }, 
+  {
+    "artist_name": "Jay-Z", 
+    "player": "Zunino, Mike", 
+    "rdio_keys": [
+      "t2702875", 
+      "t2884090", 
+      "t6896047", 
+      "t6896118", 
+      "t6896508"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-632", 
+    "track_name": "99 Problems"
+  }, 
+  {
+    "artist_name": "M.O.P.", 
+    "player": "Zunino, Mike", 
+    "rdio_keys": [
+      "t14099506"
+    ], 
+    "team_abbr": "SEA", 
+    "track_id": "mlb-track-633", 
+    "track_name": "Ante Up"
+  }, 
+  {
+    "artist_name": "Michel Telo", 
+    "player": "Andrus, Elvis", 
+    "rdio_keys": [], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-634", 
+    "track_name": "Ai Se Eu Te Pego "
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Andrus, Elvis", 
+    "rdio_keys": [
+      "t18116922", 
+      "t18115936", 
+      "t19940916", 
+      "t40711151", 
+      "t44122233"
+    ], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-635", 
+    "track_name": "Lovumba"
+  }, 
+  {
+    "artist_name": "Billy Squire", 
+    "player": "Arencibia, J.P.", 
+    "rdio_keys": [], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-636", 
+    "track_name": "The Stroke"
+  }, 
+  {
+    "artist_name": "Tego Calderon", 
+    "player": "Beltre, Adrian", 
+    "rdio_keys": [
+      "t35358030"
+    ], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-637", 
+    "track_name": "Pa' Que Retozen"
+  }, 
+  {
+    "artist_name": "Jay-Z & Kanye West", 
+    "player": "Choo, Shin-Soo", 
+    "rdio_keys": [], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-638", 
+    "track_name": "Ni****s in Paris"
+  }, 
+  {
+    "artist_name": "Chimbala", 
+    "player": "Feliz, Neftali", 
+    "rdio_keys": [], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-639", 
+    "track_name": "Con Los Pies"
+  }, 
+  {
+    "artist_name": "Requiem", 
+    "player": "Fielder, Prince", 
+    "rdio_keys": [], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-640", 
+    "track_name": "Mozart"
+  }, 
+  {
+    "artist_name": "The Game", 
+    "player": "Fielder, Prince", 
+    "rdio_keys": [], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-641", 
+    "track_name": "Put You in the Game"
+  }, 
+  {
+    "artist_name": "Black Crowes", 
+    "player": "Frasor, Jason", 
+    "rdio_keys": [
+      "t4815324", 
+      "t42721619"
+    ], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-642", 
+    "track_name": "Remedy"
+  }, 
+  {
+    "artist_name": "ted nugent", 
+    "player": "Hanson, Tommy", 
+    "rdio_keys": [
+      "t3476154"
+    ], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-643", 
+    "track_name": "stranglehold "
+  }, 
+  {
+    "artist_name": "Eric Church", 
+    "player": "Moreland, Mitch", 
+    "rdio_keys": [
+      "t7770042", 
+      "t41235175", 
+      "t10392891"
+    ], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-644", 
+    "track_name": "Homeboy"
+  }, 
+  {
+    "artist_name": "Sensato ft. Pitbull", 
+    "player": "Ogando, Alexi", 
+    "rdio_keys": [], 
+    "team_abbr": "TEX", 
+    "track_id": "mlb-track-645", 
+    "track_name": "Latinos in Paris"
+  }, 
+  {
+    "artist_name": "Jim Johnston", 
+    "player": "Aoki, Nori", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-646", 
+    "track_name": "WWE: ChaChaLaLa (Fandango)"
+  }, 
+  {
+    "artist_name": "Cole Swindell", 
+    "player": "Butler, Billy", 
+    "rdio_keys": [
+      "t43533081", 
+      "t29709972"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-647", 
+    "track_name": "Chillin' It"
+  }, 
+  {
+    "artist_name": "P$C", 
+    "player": "Cain, Lorenzo", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-648", 
+    "track_name": "Do Your Thang"
+  }, 
+  {
+    "artist_name": "Cali Swag District", 
+    "player": "Cain, Lorenzo", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-649", 
+    "track_name": "Teach Me How To Dougie"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Cain, Lorenzo", 
+    "rdio_keys": [
+      "t16152491", 
+      "t15966487", 
+      "t16044040"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-650", 
+    "track_name": "The Motto"
+  }, 
+  {
+    "artist_name": "Van Halen", 
+    "player": "Chen, Bruce", 
+    "rdio_keys": [
+      "t1234832", 
+      "t1224071", 
+      "t1245217"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-651", 
+    "track_name": "Panama"
+  }, 
+  {
+    "artist_name": "Johnny Cash", 
+    "player": "Collins, Tim", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-652", 
+    "track_name": "God's Gonna Cut You Down"
+  }, 
+  {
+    "artist_name": "Steve Austin WWE Theme", 
+    "player": "Collins, Tim", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-653", 
+    "track_name": "Stone Cold"
+  }, 
+  {
+    "artist_name": "Swedish House Mafia", 
+    "player": "Crow, Aaron", 
+    "rdio_keys": [
+      "t14054021", 
+      "t28661488"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-654", 
+    "track_name": "Antidote"
+  }, 
+  {
+    "artist_name": "Shinedown", 
+    "player": "Davis, Wade", 
+    "rdio_keys": [
+      "t1206584", 
+      "t1254853", 
+      "t38870972"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-655", 
+    "track_name": "Begin Again"
+  }, 
+  {
+    "artist_name": "French Montana", 
+    "player": "Dyson, Jarrod", 
+    "rdio_keys": [
+      "t31380676", 
+      "t31380487", 
+      "t31380673"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-656", 
+    "track_name": "Ain't Worried About Nothin"
+  }, 
+  {
+    "artist_name": "Alexis & Fido", 
+    "player": "Escobar, Alcides", 
+    "rdio_keys": [
+      "t27398621", 
+      "t33137372"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-657", 
+    "track_name": "Rompe La Cintura"
+  }, 
+  {
+    "artist_name": "Ted Nugent", 
+    "player": "Gordon, Alex", 
+    "rdio_keys": [
+      "t4002683"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-658", 
+    "track_name": "Stranglehold"
+  }, 
+  {
+    "artist_name": "Skrillex", 
+    "player": "Hayes, Brett", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-659", 
+    "track_name": "Bangarang "
+  }, 
+  {
+    "artist_name": "Arcangel, Chencho, Ken-Y, Maldy & Zion & Lennox", 
+    "player": "Herrera, Kelvin", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-660", 
+    "track_name": "La Formula Sigue"
+  }, 
+  {
+    "artist_name": "Eminem", 
+    "player": "Hochevar, Luke", 
+    "rdio_keys": [
+      "t2723544", 
+      "t2723345", 
+      "t2733259", 
+      "t2732918"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-661", 
+    "track_name": "Bagpipes From Baghdad"
+  }, 
+  {
+    "artist_name": "Breaking Benjamin", 
+    "player": "Holland, Greg", 
+    "rdio_keys": [
+      "t3905377"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-662", 
+    "track_name": "Fade Away"
+  }, 
+  {
+    "artist_name": "Trillville", 
+    "player": "Hosmer, Eric", 
+    "rdio_keys": [
+      "t1519626", 
+      "t4571611", 
+      "t4572017", 
+      "t4573547"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-663", 
+    "track_name": "Some Cut"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Infante, Omar", 
+    "rdio_keys": [
+      "t19940627", 
+      "t34500714", 
+      "t42025609", 
+      "t44122220"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-664", 
+    "track_name": "Limbo"
+  }, 
+  {
+    "artist_name": "Pitbull", 
+    "player": "Infante, Omar", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-665", 
+    "track_name": "Sube Las Manos Pa Arriba"
+  }, 
+  {
+    "artist_name": "High", 
+    "player": "Maxwell, Justin", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-666", 
+    "track_name": "LeCrae"
+  }, 
+  {
+    "artist_name": "Problem", 
+    "player": "Moustakas, Mike", 
+    "rdio_keys": [
+      "t27777398", 
+      "t27777399", 
+      "t37828468"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-667", 
+    "track_name": "Like Whaaat"
+  }, 
+  {
+    "artist_name": "Gusttavo Lima", 
+    "player": "Perez, Salvador", 
+    "rdio_keys": [
+      "t21220188", 
+      "t17197565", 
+      "t39205880", 
+      "t16614711"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-668", 
+    "track_name": "Balada Boa"
+  }, 
+  {
+    "artist_name": "DJ Buxxi", 
+    "player": "Perez, Salvador", 
+    "rdio_keys": [], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-669", 
+    "track_name": "Como Tu No Hay Dos"
+  }, 
+  {
+    "artist_name": "Awolnation", 
+    "player": "Shields, James", 
+    "rdio_keys": [
+      "t8169595", 
+      "t40463796"
+    ], 
+    "team_abbr": "KC", 
+    "track_id": "mlb-track-670", 
+    "track_name": "Sail"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Bell, Heath", 
+    "rdio_keys": [
+      "t7134096"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-671", 
+    "track_name": "For Whom The Bell Tolls"
+  }, 
+  {
+    "artist_name": "Godsmack", 
+    "player": "Cobb, Alex", 
+    "rdio_keys": [
+      "t2824939", 
+      "t2848232", 
+      "t2824321", 
+      "t2804221", 
+      "t2865382"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-672", 
+    "track_name": "I Stand Alone"
+  }, 
+  {
+    "artist_name": "Eddy K ft. El Chulo, Vitamin C, Alex C", 
+    "player": "Escobar, Yunel", 
+    "rdio_keys": [], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-673", 
+    "track_name": "Aqui te va"
+  }, 
+  {
+    "artist_name": "Wolfmother", 
+    "player": "Gomes, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-674", 
+    "track_name": "Joker and the Thief"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Grant Balfour", 
+    "rdio_keys": [], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-675", 
+    "track_name": "One"
+  }, 
+  {
+    "artist_name": "T.I.", 
+    "player": "Hellickson, Jeremy", 
+    "rdio_keys": [
+      "t7131156", 
+      "t7130585"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-676", 
+    "track_name": "No Mercy"
+  }, 
+  {
+    "artist_name": "2 Chainz", 
+    "player": "Jennings, Desmond", 
+    "rdio_keys": [
+      "t19318692", 
+      "t19446165", 
+      "t19446205", 
+      "t19446179", 
+      "t24340023"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-677", 
+    "track_name": "I'm Different"
+  }, 
+  {
+    "artist_name": "Flux Pavilion", 
+    "player": "Joyce, Matt", 
+    "rdio_keys": [
+      "t8757423", 
+      "t23904602", 
+      "t16145697"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-678", 
+    "track_name": "I Can't Stop"
+  }, 
+  {
+    "artist_name": "Trinidad James", 
+    "player": "Loney, James", 
+    "rdio_keys": [
+      "t24948555", 
+      "t27374808", 
+      "t25225972", 
+      "t23990686", 
+      "t24948429"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-679", 
+    "track_name": "All Gold Everything"
+  }, 
+  {
+    "artist_name": "Tantric", 
+    "player": "Longoria, Evan", 
+    "rdio_keys": [
+      "t2218875", 
+      "t4441828", 
+      "t2218402", 
+      "t4359412", 
+      "t4230034"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-680", 
+    "track_name": "Down and Out"
+  }, 
+  {
+    "artist_name": "Limp Bizkit", 
+    "player": "McGee, Jake", 
+    "rdio_keys": [
+      "t2786941", 
+      "t2880956", 
+      "t2861261", 
+      "t9605653"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-681", 
+    "track_name": "My Way"
+  }, 
+  {
+    "artist_name": "Marc Anthony", 
+    "player": "Molina, Jose", 
+    "rdio_keys": [
+      "t2916369"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-682", 
+    "track_name": "El D\u00eda de Mi Suerte"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Moore, Matt", 
+    "rdio_keys": [], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-683", 
+    "track_name": "King Nothing"
+  }, 
+  {
+    "artist_name": "Secreto El Biberon", 
+    "player": "Peralta, Joel", 
+    "rdio_keys": [], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-684", 
+    "track_name": "El Que No Aguanta La Presion"
+  }, 
+  {
+    "artist_name": "Pretty Lights", 
+    "player": "Price, David", 
+    "rdio_keys": [], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-685", 
+    "track_name": "Finally Moving"
+  }, 
+  {
+    "artist_name": "2Pac", 
+    "player": "Ramos, Cesar", 
+    "rdio_keys": [], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-686", 
+    "track_name": "Ambitionz az a Ridah"
+  }, 
+  {
+    "artist_name": "KB", 
+    "player": "Rodriguez, Sean", 
+    "rdio_keys": [
+      "t18020941", 
+      "t18367807", 
+      "t28061540", 
+      "t28820522"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-687", 
+    "track_name": "Go Off"
+  }, 
+  {
+    "artist_name": "Maino", 
+    "player": "Ryan Hanigan", 
+    "rdio_keys": [
+      "t2820873"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-688", 
+    "track_name": "All the Above"
+  }, 
+  {
+    "artist_name": "Lupe Fiasco", 
+    "player": "Ryan Hanigan", 
+    "rdio_keys": [
+      "t7854905", 
+      "t7861387", 
+      "t10706237"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-689", 
+    "track_name": "The Show Goes On"
+  }, 
+  {
+    "artist_name": "Osmani Garcia", 
+    "player": "Yunel Escobar", 
+    "rdio_keys": [], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-690", 
+    "track_name": "Tirala DJ"
+  }, 
+  {
+    "artist_name": "Julianna Zobrist", 
+    "player": "Zobrist, Ben", 
+    "rdio_keys": [
+      "t18206175"
+    ], 
+    "team_abbr": "TB", 
+    "track_id": "mlb-track-691", 
+    "track_name": "The Tree"
+  }, 
+  {
+    "artist_name": "Jason Aldean", 
+    "player": "Adam LaRoche", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-692", 
+    "track_name": "My Kind of Party"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Cedeno, Xavier", 
+    "rdio_keys": [
+      "t19940627", 
+      "t34500714", 
+      "t42025609", 
+      "t44122220"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-693", 
+    "track_name": "Limbo"
+  }, 
+  {
+    "artist_name": "Fugees", 
+    "player": "Clippard, Tyler", 
+    "rdio_keys": [
+      "t3515797"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-694", 
+    "track_name": "Ready or Not"
+  }, 
+  {
+    "artist_name": "Survivor", 
+    "player": "Craig Stammen", 
+    "rdio_keys": [
+      "t42718138", 
+      "t42816935"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-695", 
+    "track_name": "Eye of the Tiger"
+  }, 
+  {
+    "artist_name": "Cage The Elephant", 
+    "player": "Danny Espinosa", 
+    "rdio_keys": [
+      "t2885330"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-696", 
+    "track_name": "Ain't No Rest For The Wicked"
+  }, 
+  {
+    "artist_name": "Kanye West & JAY Z", 
+    "player": "Denard Span", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-697", 
+    "track_name": "Gotta Have It"
+  }, 
+  {
+    "artist_name": "Trip Lee", 
+    "player": "Desmond, Ian", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-698", 
+    "track_name": "One-Sixteen"
+  }, 
+  {
+    "artist_name": "Red Hot Chili Peppers", 
+    "player": "Frandsen, Kevin", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-699", 
+    "track_name": "Snow (Hey Oh)"
+  }, 
+  {
+    "artist_name": "Moby", 
+    "player": "Harper, Bryce", 
+    "rdio_keys": [
+      "t2867833", 
+      "t4738011", 
+      "t30230695", 
+      "t42700902"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-700", 
+    "track_name": "Flower"
+  }, 
+  {
+    "artist_name": "Warren Zevon", 
+    "player": "Jayson Werth", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-701", 
+    "track_name": "Werewolves of London"
+  }, 
+  {
+    "artist_name": "The Rolling Stones", 
+    "player": "Jerry Blevins", 
+    "rdio_keys": [
+      "t4745728"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-702", 
+    "track_name": "Sympathy for the Devil"
+  }, 
+  {
+    "artist_name": "Caramelos de Cianuro", 
+    "player": "Jose Lobaton", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-703", 
+    "track_name": "Sanitario"
+  }, 
+  {
+    "artist_name": "Pitbull", 
+    "player": "Lobaton, Jose", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-704", 
+    "track_name": "Don't Stop the Party"
+  }, 
+  {
+    "artist_name": "Baauer", 
+    "player": "Lobaton, Jose", 
+    "rdio_keys": [
+      "t17920051", 
+      "t28081505"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-705", 
+    "track_name": "Harlem Shake"
+  }, 
+  {
+    "artist_name": "Mr. Mister ", 
+    "player": "McLouth, Nate", 
+    "rdio_keys": [
+      "t3546960", 
+      "t2958085", 
+      "t33168239"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-706", 
+    "track_name": "Kyrie"
+  }, 
+  {
+    "artist_name": "Original Track", 
+    "player": "Rafael Soriano", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-707", 
+    "track_name": "Pitch, Soriano"
+  }, 
+  {
+    "artist_name": "Gloria Estefan", 
+    "player": "Ramos, Wilson", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-708", 
+    "track_name": "Wepa"
+  }, 
+  {
+    "artist_name": "Metallica", 
+    "player": "Ross Detwiler", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-709", 
+    "track_name": "Wherever I May Roam "
+  }, 
+  {
+    "artist_name": "Katie Perry", 
+    "player": "Ryan Mattheus", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-710", 
+    "track_name": "Firework "
+  }, 
+  {
+    "artist_name": "Fall Out Boy", 
+    "player": "Ryan Zimmerman", 
+    "rdio_keys": [
+      "t29924586", 
+      "t27768629"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-711", 
+    "track_name": "My Songs Know What You Did In The Dark [Light Em Up]"
+  }, 
+  {
+    "artist_name": "Common", 
+    "player": "Scott Hairston", 
+    "rdio_keys": [
+      "t13793533"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-712", 
+    "track_name": "Blue Sky"
+  }, 
+  {
+    "artist_name": "The White Stripes", 
+    "player": "Stephen Strasburg", 
+    "rdio_keys": [
+      "t2234702", 
+      "t4789108"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-713", 
+    "track_name": "Seven Nation Army "
+  }, 
+  {
+    "artist_name": "Five Finger Death Punch", 
+    "player": "Storen, Drew", 
+    "rdio_keys": [
+      "t2547281", 
+      "t2547285"
+    ], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-714", 
+    "track_name": "Bad Company"
+  }, 
+  {
+    "artist_name": "Colt Ford featuring Jason Aldean", 
+    "player": "Tyler Moore", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-715", 
+    "track_name": "Drivin' Around Song"
+  }, 
+  {
+    "artist_name": "Brantley Gilbert", 
+    "player": "Zimmermann, Jordan", 
+    "rdio_keys": [], 
+    "team_abbr": "WAS", 
+    "track_id": "mlb-track-716", 
+    "track_name": "Hell on Wheels"
+  }, 
+  {
+    "artist_name": "Daddy Yankee", 
+    "player": "Bautista, Jose", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-717", 
+    "track_name": "Ven conmigo"
+  }, 
+  {
+    "artist_name": "Zac Brown Band", 
+    "player": "Buehrle, Mark", 
+    "rdio_keys": [
+      "t17824092", 
+      "t18556131"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-718", 
+    "track_name": "The Wind"
+  }, 
+  {
+    "artist_name": "Lil Wayne", 
+    "player": "Cabrera, Melky", 
+    "rdio_keys": [
+      "t6849945", 
+      "t6849941"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-719", 
+    "track_name": "Right Above It"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Cabrera, Melky", 
+    "rdio_keys": [
+      "t16152491", 
+      "t15966487", 
+      "t16044040"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-720", 
+    "track_name": "The Motto"
+  }, 
+  {
+    "artist_name": "Five Finger Death Punch", 
+    "player": "Cecil, Brett", 
+    "rdio_keys": [
+      "t11784528", 
+      "t11784009", 
+      "t22111859", 
+      "t12346600"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-721", 
+    "track_name": "Coming Down"
+  }, 
+  {
+    "artist_name": "Star Wars Soundtrack", 
+    "player": "Dickey, R.A.", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-722", 
+    "track_name": "Imperial March (Darth Vader's Theme)"
+  }, 
+  {
+    "artist_name": "Ramin Djawadi", 
+    "player": "Dickey, R.A.", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-723", 
+    "track_name": "Theme from Game of Thrones"
+  }, 
+  {
+    "artist_name": "Nipo", 
+    "player": "Encarnacion, Edwin", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-724", 
+    "track_name": "No Tu"
+  }, 
+  {
+    "artist_name": "Muse", 
+    "player": "Happ, J.A.", 
+    "rdio_keys": [
+      "t1149090", 
+      "t1192564"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-725", 
+    "track_name": "Hysteria"
+  }, 
+  {
+    "artist_name": "Carly Rae Jepson", 
+    "player": "Hutchison, Drew", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-726", 
+    "track_name": "Call Me Maybe"
+  }, 
+  {
+    "artist_name": "Foo Fighters", 
+    "player": "Janssen, Casey", 
+    "rdio_keys": [
+      "t2885691"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-727", 
+    "track_name": "DOA"
+  }, 
+  {
+    "artist_name": "Skillet", 
+    "player": "Kratz, Erik", 
+    "rdio_keys": [
+      "t1255126", 
+      "t5482961", 
+      "t5496569", 
+      "t1145869"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-728", 
+    "track_name": "Hero"
+  }, 
+  {
+    "artist_name": "Toby Keith", 
+    "player": "Kyle Drabek", 
+    "rdio_keys": [
+      "t12319994", 
+      "t12320002"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-729", 
+    "track_name": "Red Solo Cup"
+  }, 
+  {
+    "artist_name": "Nelly", 
+    "player": "Lawrie, Brett", 
+    "rdio_keys": [
+      "t2838355", 
+      "t5886469", 
+      "t2861073"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-730", 
+    "track_name": "Batter Up"
+  }, 
+  {
+    "artist_name": "Will.I.Am & Britney Spears", 
+    "player": "Lind, Adam", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-731", 
+    "track_name": "Scream & Shout"
+  }, 
+  {
+    "artist_name": "Tito Nieves", 
+    "player": "Maicer Izturis", 
+    "rdio_keys": [
+      "t2728967"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-732", 
+    "track_name": "De Mi Enamorate"
+  }, 
+  {
+    "artist_name": "Disturbed", 
+    "player": "McGowan, Dustin", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-733", 
+    "track_name": "Stricken"
+  }, 
+  {
+    "artist_name": "Pitbull", 
+    "player": "Melky Cabrera", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-734", 
+    "track_name": "Crazy People"
+  }, 
+  {
+    "artist_name": "Lil Wayne", 
+    "player": "Melky Cabrera", 
+    "rdio_keys": [
+      "t6849945", 
+      "t6849941"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-735", 
+    "track_name": "Right Above It"
+  }, 
+  {
+    "artist_name": "311", 
+    "player": "Morrow, Brandon", 
+    "rdio_keys": [], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-736", 
+    "track_name": "Creatures"
+  }, 
+  {
+    "artist_name": "Blake Shelton", 
+    "player": "Rasmus, Colby", 
+    "rdio_keys": [
+      "t28961550", 
+      "t28961970", 
+      "t32660093", 
+      "t40544366"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-737", 
+    "track_name": "Boys 'Round Here"
+  }, 
+  {
+    "artist_name": "Rob Zombie", 
+    "player": "Santos, Sergio", 
+    "rdio_keys": [
+      "t2775252", 
+      "t2774669", 
+      "t3133006", 
+      "t3303072", 
+      "t7522650"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-738", 
+    "track_name": "Dragula"
+  }, 
+  {
+    "artist_name": "LeCrae", 
+    "player": "Tuiasosopo, Matt", 
+    "rdio_keys": [
+      "t22768599", 
+      "t42367148"
+    ], 
+    "team_abbr": "TOR", 
+    "track_id": "mlb-track-739", 
+    "track_name": "Tell the World"
+  }, 
+  {
+    "artist_name": "Jay-Z", 
+    "player": "Alvarez, Pedro", 
+    "rdio_keys": [
+      "t1210152", 
+      "t1281048"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-740", 
+    "track_name": "Brooklyn Go Hard"
+  }, 
+  {
+    "artist_name": "The Notorious B.I.G", 
+    "player": "Alvarez, Pedro", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-741", 
+    "track_name": "Juicy"
+  }, 
+  {
+    "artist_name": "Journey", 
+    "player": "Barmes, Clint", 
+    "rdio_keys": [
+      "t2895241", 
+      "t12176537", 
+      "t2887335", 
+      "t2892650", 
+      "t2885397", 
+      "t2923604"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-742", 
+    "track_name": "Don't Stop Believing"
+  }, 
+  {
+    "artist_name": "Red Hot Chili Peppers", 
+    "player": "Cole, Gerrit", 
+    "rdio_keys": [
+      "t1185182", 
+      "t1265008"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-743", 
+    "track_name": "Can't Stop"
+  }, 
+  {
+    "artist_name": "Pearl Jam", 
+    "player": "Grilli, Jason", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-744", 
+    "track_name": "Whipping"
+  }, 
+  {
+    "artist_name": "N/A", 
+    "player": "Harrison, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-745", 
+    "track_name": "Focused on the Grind"
+  }, 
+  {
+    "artist_name": "N/A", 
+    "player": "Harrison, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-746", 
+    "track_name": "Gotta See Me"
+  }, 
+  {
+    "artist_name": "Knob Broke", 
+    "player": "Harrison, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-747", 
+    "track_name": "On a Mission"
+  }, 
+  {
+    "artist_name": "N/A", 
+    "player": "Harrison, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-748", 
+    "track_name": "Shock Da Globe"
+  }, 
+  {
+    "artist_name": "Drake", 
+    "player": "Lambo, Andrew", 
+    "rdio_keys": [
+      "t36551801", 
+      "t36557835"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-749", 
+    "track_name": "All Me"
+  }, 
+  {
+    "artist_name": "Kanye West", 
+    "player": "Lambo, Andrew", 
+    "rdio_keys": [
+      "t20643558", 
+      "t17057219", 
+      "t16891994", 
+      "t26320628"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-750", 
+    "track_name": "Mercy"
+  }, 
+  {
+    "artist_name": "Puff Daddy", 
+    "player": "Locke, Jeff", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-751", 
+    "track_name": "Come with Me"
+  }, 
+  {
+    "artist_name": "Wilo D New", 
+    "player": "Marte, Starling", 
+    "rdio_keys": [
+      "t40589789", 
+      "t43900118"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-752", 
+    "track_name": "Dale Mami"
+  }, 
+  {
+    "artist_name": "Wilo D New", 
+    "player": "Marte, Starling", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-753", 
+    "track_name": "Placata"
+  }, 
+  {
+    "artist_name": "Kanye West", 
+    "player": "Martin, Russell", 
+    "rdio_keys": [
+      "t32961632"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-754", 
+    "track_name": "Black Skinhead"
+  }, 
+  {
+    "artist_name": "KB (feat. Lecrae)", 
+    "player": "McCutchen, Andrew", 
+    "rdio_keys": [
+      "t18367930", 
+      "t28820528"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-755", 
+    "track_name": "Church Clap"
+  }, 
+  {
+    "artist_name": "TNIGHT", 
+    "player": "McCutchen, Andrew", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-756", 
+    "track_name": "Higher Ground"
+  }, 
+  {
+    "artist_name": "Lil Jon (feat. LMFAO)", 
+    "player": "McCutchen, Andrew", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-757", 
+    "track_name": "Outta Your Mind"
+  }, 
+  {
+    "artist_name": "AC/DC", 
+    "player": "Melancon, Mark", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-758", 
+    "track_name": "Thunderstruck"
+  }, 
+  {
+    "artist_name": "Outasight", 
+    "player": "Mercer, Jordy", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-759", 
+    "track_name": "Tonight is the Night"
+  }, 
+  {
+    "artist_name": "Jake Owen", 
+    "player": "Morel, Brent", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-760", 
+    "track_name": "8 Second Ride "
+  }, 
+  {
+    "artist_name": "Jake Owen", 
+    "player": "Morel, Brent", 
+    "rdio_keys": [
+      "t11097545"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-761", 
+    "track_name": "Barefoot Blue Jean Night "
+  }, 
+  {
+    "artist_name": "Jason Aldean", 
+    "player": "Morel, Brent", 
+    "rdio_keys": [
+      "t6389384", 
+      "t10706325"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-762", 
+    "track_name": "Dirt Road Anthem "
+  }, 
+  {
+    "artist_name": "Justin Moore", 
+    "player": "Morel, Brent", 
+    "rdio_keys": [
+      "t4745047"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-763", 
+    "track_name": "Hank It "
+  }, 
+  {
+    "artist_name": "Steve Earle", 
+    "player": "Morton, Charlie", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-764", 
+    "track_name": "Feeling Alright"
+  }, 
+  {
+    "artist_name": "Turnpike Troubadours", 
+    "player": "Morton, Charlie", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-765", 
+    "track_name": "Gin Smoke and Lies"
+  }, 
+  {
+    "artist_name": "Bubba Sparxxx", 
+    "player": "Sanchez, Gaby", 
+    "rdio_keys": [
+      "t2873922"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-766", 
+    "track_name": "Deliverance"
+  }, 
+  {
+    "artist_name": "Macklemore", 
+    "player": "Snider, Travis", 
+    "rdio_keys": [
+      "t33458038"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-767", 
+    "track_name": "Can't Hold Us"
+  }, 
+  {
+    "artist_name": "Nirvana", 
+    "player": "Snider, Travis", 
+    "rdio_keys": [
+      "t2721782"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-768", 
+    "track_name": "Smells Like Teen Spirit"
+  }, 
+  {
+    "artist_name": "Skillet", 
+    "player": "Stewart, Chris", 
+    "rdio_keys": [
+      "t1274466"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-769", 
+    "track_name": "Forsaken"
+  }, 
+  {
+    "artist_name": "Marc Anthony", 
+    "player": "Tabata, Jose", 
+    "rdio_keys": [
+      "t2916203"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-770", 
+    "track_name": "Aguanile"
+  }, 
+  {
+    "artist_name": "Juan Magan", 
+    "player": "Tabata, Jose", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-771", 
+    "track_name": "Bailan Do Por Ahi"
+  }, 
+  {
+    "artist_name": "Marc Anthony", 
+    "player": "Tabata, Jose", 
+    "rdio_keys": [
+      "t30594145", 
+      "t33784606", 
+      "t40317398"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-772", 
+    "track_name": "Vivir Mi Vida"
+  }, 
+  {
+    "artist_name": "The White Stripes", 
+    "player": "Walker, Neil", 
+    "rdio_keys": [
+      "t2234702", 
+      "t4789108"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-773", 
+    "track_name": "Seven Nation Army"
+  }, 
+  {
+    "artist_name": "A$AP Rocky", 
+    "player": "Walker, Neil", 
+    "rdio_keys": [], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-774", 
+    "track_name": "Wild for the Night (feat. Skrillex & Birdy Nam Nam)"
+  }, 
+  {
+    "artist_name": "Wiz Khalifa", 
+    "player": "Walker, Neil", 
+    "rdio_keys": [
+      "t24349273", 
+      "t24349388", 
+      "t24349337", 
+      "t24349249", 
+      "t17166341"
+    ], 
+    "team_abbr": "PIT", 
+    "track_id": "mlb-track-775", 
+    "track_name": "Work Hard, Play Hard"
+  }, 
+  {
+    "artist_name": "J. Alvarez ", 
+    "player": "Alexi Amarista", 
+    "rdio_keys": [
+      "t5861736", 
+      "t11009763", 
+      "t6899555"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-776", 
+    "track_name": "Regalame una Noche"
+  }, 
+  {
+    "artist_name": "Coheed Cambria ", 
+    "player": "Andrew Cashner", 
+    "rdio_keys": [
+      "t12101549", 
+      "t2908218"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-777", 
+    "track_name": "Welcome Home"
+  }, 
+  {
+    "artist_name": "Third Day ", 
+    "player": "Chase Headley", 
+    "rdio_keys": [
+      "t6387928"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-778", 
+    "track_name": "Surrender"
+  }, 
+  {
+    "artist_name": "Jeremy Camp", 
+    "player": "Chase Headley", 
+    "rdio_keys": [
+      "t2532069", 
+      "t15817244", 
+      "t11955256"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-779", 
+    "track_name": "Take My Life"
+  }, 
+  {
+    "artist_name": "Quiet Riot ", 
+    "player": "Chris Denorfia", 
+    "rdio_keys": [
+      "t388927", 
+      "t3908893", 
+      "t7334362", 
+      "t1420977", 
+      "t1440096", 
+      "t1499871", 
+      "t6858031", 
+      "t1395850", 
+      "t1470648", 
+      "t1508625", 
+      "t1363142", 
+      "t6860978", 
+      "t7189278", 
+      "t1457328", 
+      "t7140792", 
+      "t11505988", 
+      "t1436644", 
+      "t1625119", 
+      "t9347896", 
+      "t1461266", 
+      "t1803007", 
+      "t10835315", 
+      "t18186", 
+      "t1444517", 
+      "t1649251", 
+      "t1073843", 
+      "t1489985", 
+      "t15709007", 
+      "t1309686", 
+      "t1580207", 
+      "t15362562", 
+      "t31253634", 
+      "t32556542", 
+      "t32321577"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-780", 
+    "track_name": "Bang Your Head"
+  }, 
+  {
+    "artist_name": "Chimbala ", 
+    "player": "Everth Cabrera", 
+    "rdio_keys": [], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-781", 
+    "track_name": "Con Los Pies"
+  }, 
+  {
+    "artist_name": "El Ken", 
+    "player": "Everth Cabrera", 
+    "rdio_keys": [
+      "t15557309"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-782", 
+    "track_name": "Musica Pa Tiguere"
+  }, 
+  {
+    "artist_name": "Jason Alden", 
+    "player": "Gyorko, Jedd", 
+    "rdio_keys": [], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-783", 
+    "track_name": "The Only Way I Know"
+  }, 
+  {
+    "artist_name": "Red", 
+    "player": "Ian Kennedy", 
+    "rdio_keys": [
+      "t2888187"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-784", 
+    "track_name": "Already Over"
+  }, 
+  {
+    "artist_name": "Jimi Hendrix ", 
+    "player": "Joe Wieland", 
+    "rdio_keys": [], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-785", 
+    "track_name": "Hey Joe"
+  }, 
+  {
+    "artist_name": "Disturbed", 
+    "player": "Johnson, Josh", 
+    "rdio_keys": [], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-786", 
+    "track_name": "Down with the sickness"
+  }, 
+  {
+    "artist_name": "Taylor Swift", 
+    "player": "Kennedy, Ian", 
+    "rdio_keys": [], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-787", 
+    "track_name": "I Knew You Were Trouble"
+  }, 
+  {
+    "artist_name": "Tool", 
+    "player": "Kyle Blanks", 
+    "rdio_keys": [], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-788", 
+    "track_name": "Stinkfist"
+  }, 
+  {
+    "artist_name": "Juelz Santana ", 
+    "player": "Kyle Blanks", 
+    "rdio_keys": [], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-789", 
+    "track_name": "The Second Coming"
+  }, 
+  {
+    "artist_name": "Collective Soul ", 
+    "player": "Nick Hundley", 
+    "rdio_keys": [
+      "t2262680", 
+      "t6374184"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-790", 
+    "track_name": "Shine"
+  }, 
+  {
+    "artist_name": "Rhett Walker Band", 
+    "player": "Smith, Seth", 
+    "rdio_keys": [
+      "t18675079"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-791", 
+    "track_name": "Come to the River"
+  }, 
+  {
+    "artist_name": "Deltron 3030", 
+    "player": "Tyson Ross", 
+    "rdio_keys": [
+      "t5072757"
+    ], 
+    "team_abbr": "SD", 
+    "track_id": "mlb-track-792", 
+    "track_name": "Mastermind"
+  }
+]
