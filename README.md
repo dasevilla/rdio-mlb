@@ -24,3 +24,8 @@ Add Rdio track keys to the JSON file:
 Copy it to the web app:
 
     cp mlb-tracks-combined.json ../webapp/js/
+
+Update GitHub page
+
+    git checkout gh-pages
+    git archive master | tar x --strip=1 webapp
